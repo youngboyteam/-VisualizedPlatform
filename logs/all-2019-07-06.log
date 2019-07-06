@@ -14,3 +14,22 @@
 [2019-07-06 18:02:15,205] [log.py:228] [log:log_response] [WARNING]- Not Found: /favicon.ico
 [2019-07-06 18:02:15,205] [basehttp.py:154] [basehttp:log_message] [WARNING]- "GET /favicon.ico HTTP/1.1" 404 2086
 [2019-07-06 18:02:15,206] [basehttp.py:154] [basehttp:log_message] [ERROR]- "GET /favicon.ico HTTP/1.1" 500 59
+[2019-07-06 20:22:52,773] [autoreload.py:586] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2019-07-06 20:23:19,391] [basehttp.py:154] [basehttp:log_message] [INFO]- "GET /make_circle HTTP/1.1" 200 7959
+[2019-07-06 20:23:19,567] [log.py:228] [log:log_response] [WARNING]- Not Found: /favicon.ico
+[2019-07-06 20:23:19,567] [basehttp.py:154] [basehttp:log_message] [WARNING]- "GET /favicon.ico HTTP/1.1" 404 2197
+[2019-07-06 20:23:19,568] [basehttp.py:154] [basehttp:log_message] [ERROR]- "GET /favicon.ico HTTP/1.1" 500 59
+[2019-07-06 20:24:02,938] [autoreload.py:213] [autoreload:trigger_reload] [INFO]- F:\programe\pythonPrograme\VisualizedPlatform\ResearcPlatform\views.py changed, reloading.
+[2019-07-06 20:24:03,793] [autoreload.py:586] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2019-07-06 20:24:19,139] [views.py:14] [views:login] [INFO]- 请求成功！ response_code:200；response_content:Hello world !
+[2019-07-06 20:24:19,157] [basehttp.py:154] [basehttp:log_message] [INFO]- "GET /login HTTP/1.1" 200 1426
+[2019-07-06 20:24:21,896] [log.py:228] [log:log_response] [WARNING]- Not Found: /bokehTest
+[2019-07-06 20:24:21,897] [basehttp.py:154] [basehttp:log_message] [WARNING]- "POST /bokehTest HTTP/1.1" 404 2192
+[2019-07-06 20:24:51,411] [autoreload.py:586] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2019-07-06 20:25:02,019] [views.py:14] [views:login] [INFO]- 请求成功！ response_code:200；response_content:Hello world !
+[2019-07-06 20:25:02,040] [basehttp.py:154] [basehttp:log_message] [INFO]- "GET /login HTTP/1.1" 200 1428
+[2019-07-06 20:25:02,081] [basehttp.py:154] [basehttp:log_message] [WARNING]- "GET /static/js/jquery-2.1.1.min.js HTTP/1.1" 404 1690
+[2019-07-06 20:25:02,519] [basehttp.py:154] [basehttp:log_message] [WARNING]- "GET /static/js/jquery-2.1.1.min.js HTTP/1.1" 404 1690
+[2019-07-06 20:25:03,696] [basehttp.py:154] [basehttp:log_message] [INFO]- "POST /make_circle HTTP/1.1" 200 7961
+[2019-07-06 20:25:03,729] [basehttp.py:154] [basehttp:log_message] [WARNING]- "GET /static/js/jquery-2.1.1.min.js HTTP/1.1" 404 1690
+[2019-07-06 20:25:03,802] [basehttp.py:154] [basehttp:log_message] [WARNING]- "GET /static/js/jquery-2.1.1.min.js HTTP/1.1" 404 1690

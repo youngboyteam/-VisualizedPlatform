@@ -1,0 +1,34 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0' name='viewport' />
+    <meta name="viewport" content="width=device-width" />
+    <title>Title</title>
+    <link href="http://cdn.pydata.org/bokeh/release/bokeh-1.2.0.min.css" rel="stylesheet" type="text/css">
+    <link href="http://cdn.pydata.org/bokeh/release/bokeh-widgets-1.2.0.min.css" rel="stylesheet" type="text/css">
+    <link href="http://cdn.pydata.org/bokeh/release/bokeh-tables-1.2.0.min.css" rel="stylesheet" type="text/css">
+    <script src="http://cdn.pydata.org/bokeh/release/bokeh-1.2.0.min.js"></script>
+    <script src="http://cdn.pydata.org/bokeh/release/bokeh-widgets-1.2.0.min.js"></script>
+    <script src="http://cdn.pydata.org/bokeh/release/bokeh-tables-1.2.0.min.js"></script>
+    <script src="http://cdn.pydata.org/bokeh/release/bokeh-api-1.2.0.min.js"></script>
+    {{ script |safe }}
+</head>
+<body>
+<p>Hello</p>
+            <form class="m-t" action="/make_circle" method="post" enctype="multipart/form-data">
+                {% csrf_token %}
+
+                <button type="submit" class="btn btn-primary block full-width m-b">bokeh</button>
+
+
+            </form>
+
+            {{ div |safe }}
+
+ <script src="{% static 'js/jquery-2.1.1.min.js' %}"></script>
+
+</body>
+</html>

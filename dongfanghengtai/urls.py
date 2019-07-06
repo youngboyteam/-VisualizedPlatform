@@ -19,4 +19,5 @@ from ResearcPlatform import views
 urlpatterns = [
     path('admin/', admin.site.urls),
     path('login', views.UserLogin.login),
+    path('make_circle',views.UserLogin.make_circle)
 ]
