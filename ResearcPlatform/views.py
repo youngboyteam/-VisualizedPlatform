@@ -14,7 +14,7 @@ class UserLogin:
         logger.info('请求成功！ response_code:{}；response_content:{}'.format(200, 'Hello world !'))
         return render(self,'circle.html')
 
-    def make_circle(self):
+    def make_circle(request):
         p = figure(plot_width=400, plot_height=400)
         # 方框
         p.square(np.random.randint(1, 10, 5), np.random.randint(1, 10, 5), size=20, color="navy")
@@ -23,4 +23,4 @@ class UserLogin:
 
         script, div = components(p, CDN)
 
-        return render(self, 'circle.html', {'script': script, 'div': div})
+        return render(request, 'circle.html', {'script': script, 'div': div})
