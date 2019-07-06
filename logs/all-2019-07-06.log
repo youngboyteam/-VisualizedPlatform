@@ -1,0 +1,16 @@
+[2019-07-06 17:52:22,881] [autoreload.py:586] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2019-07-06 17:52:42,697] [autoreload.py:213] [autoreload:trigger_reload] [INFO]- F:\programe\pythonPrograme\dongfanghengtai\dongfanghengtai\settings.py changed, reloading.
+[2019-07-06 17:52:43,970] [autoreload.py:586] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2019-07-06 17:57:45,696] [autoreload.py:586] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2019-07-06 17:59:24,073] [autoreload.py:586] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2019-07-06 18:00:19,236] [autoreload.py:213] [autoreload:trigger_reload] [INFO]- F:\programe\pythonPrograme\dongfanghengtai\ResearcPlatform\views.py changed, reloading.
+[2019-07-06 18:00:20,663] [autoreload.py:586] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2019-07-06 18:00:52,151] [autoreload.py:213] [autoreload:trigger_reload] [INFO]- F:\programe\pythonPrograme\dongfanghengtai\dongfanghengtai\urls.py changed, reloading.
+[2019-07-06 18:00:53,512] [autoreload.py:586] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2019-07-06 18:00:59,313] [autoreload.py:586] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2019-07-06 18:01:58,644] [autoreload.py:586] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2019-07-06 18:02:15,119] [views.py:10] [views:login] [INFO]- 请求成功！ response_code:200；response_content:Hello world !
+[2019-07-06 18:02:15,166] [basehttp.py:154] [basehttp:log_message] [INFO]- "GET /login HTTP/1.1" 200 14
+[2019-07-06 18:02:15,205] [log.py:228] [log:log_response] [WARNING]- Not Found: /favicon.ico
+[2019-07-06 18:02:15,205] [basehttp.py:154] [basehttp:log_message] [WARNING]- "GET /favicon.ico HTTP/1.1" 404 2086
+[2019-07-06 18:02:15,206] [basehttp.py:154] [basehttp:log_message] [ERROR]- "GET /favicon.ico HTTP/1.1" 500 59
