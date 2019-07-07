@@ -1,0 +1,1230 @@
+[2019-07-07 18:47:19,063] [autoreload.py:586] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2019-07-07 18:47:23,570] [log.py:228] [log:log_response] [ERROR]- Internal Server Error: /Login/
+Traceback (most recent call last):
+  File "D:\Python37\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "D:\Python37\lib\site-packages\django\core\handlers\base.py", line 100, in _get_response
+    resolver_match = resolver.resolve(request.path_info)
+  File "D:\Python37\lib\site-packages\django\urls\resolvers.py", line 537, in resolve
+    sub_match = pattern.resolve(new_path)
+  File "D:\Python37\lib\site-packages\django\urls\resolvers.py", line 348, in resolve
+    kwargs.update(self.default_args)
+ValueError: dictionary update sequence element #0 has length 1; 2 is required
+[2019-07-07 18:47:23,573] [basehttp.py:154] [basehttp:log_message] [ERROR]- "GET /Login/ HTTP/1.1" 500 67404
+[2019-07-07 18:50:00,799] [log.py:228] [log:log_response] [ERROR]- Internal Server Error: /Login/
+Traceback (most recent call last):
+  File "D:\Python37\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "D:\Python37\lib\site-packages\django\core\handlers\base.py", line 100, in _get_response
+    resolver_match = resolver.resolve(request.path_info)
+  File "D:\Python37\lib\site-packages\django\urls\resolvers.py", line 537, in resolve
+    sub_match = pattern.resolve(new_path)
+  File "D:\Python37\lib\site-packages\django\urls\resolvers.py", line 348, in resolve
+    kwargs.update(self.default_args)
+ValueError: dictionary update sequence element #0 has length 1; 2 is required
+[2019-07-07 18:50:00,802] [basehttp.py:154] [basehttp:log_message] [ERROR]- "GET /Login/ HTTP/1.1" 500 67641
+[2019-07-07 18:50:01,700] [log.py:228] [log:log_response] [ERROR]- Internal Server Error: /Login/
+Traceback (most recent call last):
+  File "D:\Python37\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "D:\Python37\lib\site-packages\django\core\handlers\base.py", line 100, in _get_response
+    resolver_match = resolver.resolve(request.path_info)
+  File "D:\Python37\lib\site-packages\django\urls\resolvers.py", line 537, in resolve
+    sub_match = pattern.resolve(new_path)
+  File "D:\Python37\lib\site-packages\django\urls\resolvers.py", line 348, in resolve
+    kwargs.update(self.default_args)
+ValueError: dictionary update sequence element #0 has length 1; 2 is required
+[2019-07-07 18:50:01,702] [basehttp.py:154] [basehttp:log_message] [ERROR]- "GET /Login/ HTTP/1.1" 500 67641
+[2019-07-07 18:50:02,332] [log.py:228] [log:log_response] [ERROR]- Internal Server Error: /Login/
+Traceback (most recent call last):
+  File "D:\Python37\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "D:\Python37\lib\site-packages\django\core\handlers\base.py", line 100, in _get_response
+    resolver_match = resolver.resolve(request.path_info)
+  File "D:\Python37\lib\site-packages\django\urls\resolvers.py", line 537, in resolve
+    sub_match = pattern.resolve(new_path)
+  File "D:\Python37\lib\site-packages\django\urls\resolvers.py", line 348, in resolve
+    kwargs.update(self.default_args)
+ValueError: dictionary update sequence element #0 has length 1; 2 is required
+[2019-07-07 18:50:02,335] [basehttp.py:154] [basehttp:log_message] [ERROR]- "GET /Login/ HTTP/1.1" 500 67641
+[2019-07-07 18:50:03,152] [log.py:228] [log:log_response] [ERROR]- Internal Server Error: /Login/
+Traceback (most recent call last):
+  File "D:\Python37\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "D:\Python37\lib\site-packages\django\core\handlers\base.py", line 100, in _get_response
+    resolver_match = resolver.resolve(request.path_info)
+  File "D:\Python37\lib\site-packages\django\urls\resolvers.py", line 537, in resolve
+    sub_match = pattern.resolve(new_path)
+  File "D:\Python37\lib\site-packages\django\urls\resolvers.py", line 348, in resolve
+    kwargs.update(self.default_args)
+ValueError: dictionary update sequence element #0 has length 1; 2 is required
+[2019-07-07 18:50:03,155] [basehttp.py:154] [basehttp:log_message] [ERROR]- "GET /Login/ HTTP/1.1" 500 67641
+[2019-07-07 18:50:03,561] [log.py:228] [log:log_response] [ERROR]- Internal Server Error: /Login/
+Traceback (most recent call last):
+  File "D:\Python37\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "D:\Python37\lib\site-packages\django\core\handlers\base.py", line 100, in _get_response
+    resolver_match = resolver.resolve(request.path_info)
+  File "D:\Python37\lib\site-packages\django\urls\resolvers.py", line 537, in resolve
+    sub_match = pattern.resolve(new_path)
+  File "D:\Python37\lib\site-packages\django\urls\resolvers.py", line 348, in resolve
+    kwargs.update(self.default_args)
+ValueError: dictionary update sequence element #0 has length 1; 2 is required
+[2019-07-07 18:50:03,565] [basehttp.py:154] [basehttp:log_message] [ERROR]- "GET /Login/ HTTP/1.1" 500 67641
+[2019-07-07 18:50:03,781] [log.py:228] [log:log_response] [ERROR]- Internal Server Error: /Login/
+Traceback (most recent call last):
+  File "D:\Python37\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "D:\Python37\lib\site-packages\django\core\handlers\base.py", line 100, in _get_response
+    resolver_match = resolver.resolve(request.path_info)
+  File "D:\Python37\lib\site-packages\django\urls\resolvers.py", line 537, in resolve
+    sub_match = pattern.resolve(new_path)
+  File "D:\Python37\lib\site-packages\django\urls\resolvers.py", line 348, in resolve
+    kwargs.update(self.default_args)
+ValueError: dictionary update sequence element #0 has length 1; 2 is required
+[2019-07-07 18:50:03,784] [basehttp.py:154] [basehttp:log_message] [ERROR]- "GET /Login/ HTTP/1.1" 500 67641
+[2019-07-07 18:50:04,018] [log.py:228] [log:log_response] [ERROR]- Internal Server Error: /Login/
+Traceback (most recent call last):
+  File "D:\Python37\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "D:\Python37\lib\site-packages\django\core\handlers\base.py", line 100, in _get_response
+    resolver_match = resolver.resolve(request.path_info)
+  File "D:\Python37\lib\site-packages\django\urls\resolvers.py", line 537, in resolve
+    sub_match = pattern.resolve(new_path)
+  File "D:\Python37\lib\site-packages\django\urls\resolvers.py", line 348, in resolve
+    kwargs.update(self.default_args)
+ValueError: dictionary update sequence element #0 has length 1; 2 is required
+[2019-07-07 18:50:04,020] [basehttp.py:154] [basehttp:log_message] [ERROR]- "GET /Login/ HTTP/1.1" 500 67641
+[2019-07-07 18:50:04,171] [log.py:228] [log:log_response] [ERROR]- Internal Server Error: /Login/
+Traceback (most recent call last):
+  File "D:\Python37\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "D:\Python37\lib\site-packages\django\core\handlers\base.py", line 100, in _get_response
+    resolver_match = resolver.resolve(request.path_info)
+  File "D:\Python37\lib\site-packages\django\urls\resolvers.py", line 537, in resolve
+    sub_match = pattern.resolve(new_path)
+  File "D:\Python37\lib\site-packages\django\urls\resolvers.py", line 348, in resolve
+    kwargs.update(self.default_args)
+ValueError: dictionary update sequence element #0 has length 1; 2 is required
+[2019-07-07 18:50:04,173] [basehttp.py:154] [basehttp:log_message] [ERROR]- "GET /Login/ HTTP/1.1" 500 67641
+[2019-07-07 18:50:30,567] [autoreload.py:213] [autoreload:trigger_reload] [INFO]- D:\MyProject\VisualizedPlatform\UserAuthentication\views.py changed, reloading.
+[2019-07-07 18:50:31,653] [autoreload.py:586] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2019-07-07 18:50:33,104] [log.py:228] [log:log_response] [ERROR]- Internal Server Error: /Login/
+Traceback (most recent call last):
+  File "D:\Python37\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "D:\Python37\lib\site-packages\django\core\handlers\base.py", line 100, in _get_response
+    resolver_match = resolver.resolve(request.path_info)
+  File "D:\Python37\lib\site-packages\django\urls\resolvers.py", line 537, in resolve
+    sub_match = pattern.resolve(new_path)
+  File "D:\Python37\lib\site-packages\django\urls\resolvers.py", line 348, in resolve
+    kwargs.update(self.default_args)
+ValueError: dictionary update sequence element #0 has length 1; 2 is required
+[2019-07-07 18:50:33,107] [basehttp.py:154] [basehttp:log_message] [ERROR]- "GET /Login/ HTTP/1.1" 500 67641
+[2019-07-07 18:50:41,767] [log.py:228] [log:log_response] [ERROR]- Internal Server Error: /Login/
+Traceback (most recent call last):
+  File "D:\Python37\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "D:\Python37\lib\site-packages\django\core\handlers\base.py", line 100, in _get_response
+    resolver_match = resolver.resolve(request.path_info)
+  File "D:\Python37\lib\site-packages\django\urls\resolvers.py", line 537, in resolve
+    sub_match = pattern.resolve(new_path)
+  File "D:\Python37\lib\site-packages\django\urls\resolvers.py", line 348, in resolve
+    kwargs.update(self.default_args)
+ValueError: dictionary update sequence element #0 has length 1; 2 is required
+[2019-07-07 18:50:41,769] [basehttp.py:154] [basehttp:log_message] [ERROR]- "GET /Login/ HTTP/1.1" 500 67641
+[2019-07-07 18:52:08,061] [autoreload.py:213] [autoreload:trigger_reload] [INFO]- D:\MyProject\VisualizedPlatform\dongfanghengtai\urls.py changed, reloading.
+[2019-07-07 18:52:09,123] [autoreload.py:586] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2019-07-07 18:52:10,723] [log.py:228] [log:log_response] [ERROR]- Internal Server Error: /Login/
+Traceback (most recent call last):
+  File "D:\Python37\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "D:\Python37\lib\site-packages\django\core\handlers\base.py", line 100, in _get_response
+    resolver_match = resolver.resolve(request.path_info)
+  File "D:\Python37\lib\site-packages\django\urls\resolvers.py", line 537, in resolve
+    sub_match = pattern.resolve(new_path)
+  File "D:\Python37\lib\site-packages\django\urls\resolvers.py", line 348, in resolve
+    kwargs.update(self.default_args)
+ValueError: dictionary update sequence element #0 has length 1; 2 is required
+[2019-07-07 18:52:10,725] [basehttp.py:154] [basehttp:log_message] [ERROR]- "GET /Login/ HTTP/1.1" 500 67602
+[2019-07-07 18:52:12,266] [log.py:228] [log:log_response] [ERROR]- Internal Server Error: /Login/
+Traceback (most recent call last):
+  File "D:\Python37\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "D:\Python37\lib\site-packages\django\core\handlers\base.py", line 100, in _get_response
+    resolver_match = resolver.resolve(request.path_info)
+  File "D:\Python37\lib\site-packages\django\urls\resolvers.py", line 537, in resolve
+    sub_match = pattern.resolve(new_path)
+  File "D:\Python37\lib\site-packages\django\urls\resolvers.py", line 348, in resolve
+    kwargs.update(self.default_args)
+ValueError: dictionary update sequence element #0 has length 1; 2 is required
+[2019-07-07 18:52:12,269] [basehttp.py:154] [basehttp:log_message] [ERROR]- "GET /Login/ HTTP/1.1" 500 67602
+[2019-07-07 18:52:12,920] [log.py:228] [log:log_response] [ERROR]- Internal Server Error: /Login/
+Traceback (most recent call last):
+  File "D:\Python37\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "D:\Python37\lib\site-packages\django\core\handlers\base.py", line 100, in _get_response
+    resolver_match = resolver.resolve(request.path_info)
+  File "D:\Python37\lib\site-packages\django\urls\resolvers.py", line 537, in resolve
+    sub_match = pattern.resolve(new_path)
+  File "D:\Python37\lib\site-packages\django\urls\resolvers.py", line 348, in resolve
+    kwargs.update(self.default_args)
+ValueError: dictionary update sequence element #0 has length 1; 2 is required
+[2019-07-07 18:52:12,923] [basehttp.py:154] [basehttp:log_message] [ERROR]- "GET /Login/ HTTP/1.1" 500 67602
+[2019-07-07 18:52:53,158] [log.py:228] [log:log_response] [ERROR]- Internal Server Error: /Login/
+Traceback (most recent call last):
+  File "D:\Python37\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "D:\Python37\lib\site-packages\django\core\handlers\base.py", line 100, in _get_response
+    resolver_match = resolver.resolve(request.path_info)
+  File "D:\Python37\lib\site-packages\django\urls\resolvers.py", line 537, in resolve
+    sub_match = pattern.resolve(new_path)
+  File "D:\Python37\lib\site-packages\django\urls\resolvers.py", line 348, in resolve
+    kwargs.update(self.default_args)
+ValueError: dictionary update sequence element #0 has length 1; 2 is required
+[2019-07-07 18:52:53,162] [basehttp.py:154] [basehttp:log_message] [ERROR]- "GET /Login/ HTTP/1.1" 500 67602
+[2019-07-07 18:53:02,723] [log.py:228] [log:log_response] [ERROR]- Internal Server Error: /Login/
+Traceback (most recent call last):
+  File "D:\Python37\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "D:\Python37\lib\site-packages\django\core\handlers\base.py", line 100, in _get_response
+    resolver_match = resolver.resolve(request.path_info)
+  File "D:\Python37\lib\site-packages\django\urls\resolvers.py", line 537, in resolve
+    sub_match = pattern.resolve(new_path)
+  File "D:\Python37\lib\site-packages\django\urls\resolvers.py", line 348, in resolve
+    kwargs.update(self.default_args)
+ValueError: dictionary update sequence element #0 has length 1; 2 is required
+[2019-07-07 18:53:02,726] [basehttp.py:154] [basehttp:log_message] [ERROR]- "GET /Login/ HTTP/1.1" 500 67602
+[2019-07-07 18:53:36,557] [autoreload.py:213] [autoreload:trigger_reload] [INFO]- D:\MyProject\VisualizedPlatform\dongfanghengtai\urls.py changed, reloading.
+[2019-07-07 18:53:37,735] [autoreload.py:586] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2019-07-07 18:53:39,024] [log.py:228] [log:log_response] [ERROR]- Internal Server Error: /Login/
+Traceback (most recent call last):
+  File "D:\Python37\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "D:\Python37\lib\site-packages\django\core\handlers\base.py", line 100, in _get_response
+    resolver_match = resolver.resolve(request.path_info)
+  File "D:\Python37\lib\site-packages\django\urls\resolvers.py", line 537, in resolve
+    sub_match = pattern.resolve(new_path)
+  File "D:\Python37\lib\site-packages\django\urls\resolvers.py", line 348, in resolve
+    kwargs.update(self.default_args)
+ValueError: dictionary update sequence element #0 has length 1; 2 is required
+[2019-07-07 18:53:39,027] [basehttp.py:154] [basehttp:log_message] [ERROR]- "GET /Login/ HTTP/1.1" 500 67602
+[2019-07-07 18:53:39,704] [log.py:228] [log:log_response] [ERROR]- Internal Server Error: /Login/
+Traceback (most recent call last):
+  File "D:\Python37\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "D:\Python37\lib\site-packages\django\core\handlers\base.py", line 100, in _get_response
+    resolver_match = resolver.resolve(request.path_info)
+  File "D:\Python37\lib\site-packages\django\urls\resolvers.py", line 537, in resolve
+    sub_match = pattern.resolve(new_path)
+  File "D:\Python37\lib\site-packages\django\urls\resolvers.py", line 348, in resolve
+    kwargs.update(self.default_args)
+ValueError: dictionary update sequence element #0 has length 1; 2 is required
+[2019-07-07 18:53:39,707] [basehttp.py:154] [basehttp:log_message] [ERROR]- "GET /Login/ HTTP/1.1" 500 67602
+[2019-07-07 18:55:05,812] [log.py:228] [log:log_response] [ERROR]- Internal Server Error: /Login/
+Traceback (most recent call last):
+  File "D:\Python37\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "D:\Python37\lib\site-packages\django\core\handlers\base.py", line 100, in _get_response
+    resolver_match = resolver.resolve(request.path_info)
+  File "D:\Python37\lib\site-packages\django\urls\resolvers.py", line 537, in resolve
+    sub_match = pattern.resolve(new_path)
+  File "D:\Python37\lib\site-packages\django\urls\resolvers.py", line 348, in resolve
+    kwargs.update(self.default_args)
+ValueError: dictionary update sequence element #0 has length 1; 2 is required
+[2019-07-07 18:55:05,814] [basehttp.py:154] [basehttp:log_message] [ERROR]- "GET /Login/ HTTP/1.1" 500 67602
+[2019-07-07 18:55:10,164] [log.py:228] [log:log_response] [ERROR]- Internal Server Error: /Login/
+Traceback (most recent call last):
+  File "D:\Python37\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "D:\Python37\lib\site-packages\django\core\handlers\base.py", line 100, in _get_response
+    resolver_match = resolver.resolve(request.path_info)
+  File "D:\Python37\lib\site-packages\django\urls\resolvers.py", line 537, in resolve
+    sub_match = pattern.resolve(new_path)
+  File "D:\Python37\lib\site-packages\django\urls\resolvers.py", line 348, in resolve
+    kwargs.update(self.default_args)
+ValueError: dictionary update sequence element #0 has length 1; 2 is required
+[2019-07-07 18:55:10,166] [basehttp.py:154] [basehttp:log_message] [ERROR]- "GET /Login/ HTTP/1.1" 500 67602
+[2019-07-07 18:55:10,703] [log.py:228] [log:log_response] [ERROR]- Internal Server Error: /Login/
+Traceback (most recent call last):
+  File "D:\Python37\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "D:\Python37\lib\site-packages\django\core\handlers\base.py", line 100, in _get_response
+    resolver_match = resolver.resolve(request.path_info)
+  File "D:\Python37\lib\site-packages\django\urls\resolvers.py", line 537, in resolve
+    sub_match = pattern.resolve(new_path)
+  File "D:\Python37\lib\site-packages\django\urls\resolvers.py", line 348, in resolve
+    kwargs.update(self.default_args)
+ValueError: dictionary update sequence element #0 has length 1; 2 is required
+[2019-07-07 18:55:10,706] [basehttp.py:154] [basehttp:log_message] [ERROR]- "GET /Login/ HTTP/1.1" 500 67602
+[2019-07-07 18:55:10,922] [log.py:228] [log:log_response] [ERROR]- Internal Server Error: /Login/
+Traceback (most recent call last):
+  File "D:\Python37\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "D:\Python37\lib\site-packages\django\core\handlers\base.py", line 100, in _get_response
+    resolver_match = resolver.resolve(request.path_info)
+  File "D:\Python37\lib\site-packages\django\urls\resolvers.py", line 537, in resolve
+    sub_match = pattern.resolve(new_path)
+  File "D:\Python37\lib\site-packages\django\urls\resolvers.py", line 348, in resolve
+    kwargs.update(self.default_args)
+ValueError: dictionary update sequence element #0 has length 1; 2 is required
+[2019-07-07 18:55:10,925] [basehttp.py:154] [basehttp:log_message] [ERROR]- "GET /Login/ HTTP/1.1" 500 67602
+[2019-07-07 18:55:11,073] [log.py:228] [log:log_response] [ERROR]- Internal Server Error: /Login/
+Traceback (most recent call last):
+  File "D:\Python37\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "D:\Python37\lib\site-packages\django\core\handlers\base.py", line 100, in _get_response
+    resolver_match = resolver.resolve(request.path_info)
+  File "D:\Python37\lib\site-packages\django\urls\resolvers.py", line 537, in resolve
+    sub_match = pattern.resolve(new_path)
+  File "D:\Python37\lib\site-packages\django\urls\resolvers.py", line 348, in resolve
+    kwargs.update(self.default_args)
+ValueError: dictionary update sequence element #0 has length 1; 2 is required
+[2019-07-07 18:55:11,077] [basehttp.py:154] [basehttp:log_message] [ERROR]- "GET /Login/ HTTP/1.1" 500 67602
+[2019-07-07 18:55:11,273] [log.py:228] [log:log_response] [ERROR]- Internal Server Error: /Login/
+Traceback (most recent call last):
+  File "D:\Python37\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "D:\Python37\lib\site-packages\django\core\handlers\base.py", line 100, in _get_response
+    resolver_match = resolver.resolve(request.path_info)
+  File "D:\Python37\lib\site-packages\django\urls\resolvers.py", line 537, in resolve
+    sub_match = pattern.resolve(new_path)
+  File "D:\Python37\lib\site-packages\django\urls\resolvers.py", line 348, in resolve
+    kwargs.update(self.default_args)
+ValueError: dictionary update sequence element #0 has length 1; 2 is required
+[2019-07-07 18:55:11,276] [basehttp.py:154] [basehttp:log_message] [ERROR]- "GET /Login/ HTTP/1.1" 500 67602
+[2019-07-07 18:56:06,571] [log.py:228] [log:log_response] [ERROR]- Internal Server Error: /Login/
+Traceback (most recent call last):
+  File "D:\Python37\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "D:\Python37\lib\site-packages\django\core\handlers\base.py", line 100, in _get_response
+    resolver_match = resolver.resolve(request.path_info)
+  File "D:\Python37\lib\site-packages\django\urls\resolvers.py", line 537, in resolve
+    sub_match = pattern.resolve(new_path)
+  File "D:\Python37\lib\site-packages\django\urls\resolvers.py", line 348, in resolve
+    kwargs.update(self.default_args)
+ValueError: dictionary update sequence element #0 has length 1; 2 is required
+[2019-07-07 18:56:06,574] [basehttp.py:154] [basehttp:log_message] [ERROR]- "GET /Login/ HTTP/1.1" 500 67602
+[2019-07-07 19:00:10,991] [autoreload.py:213] [autoreload:trigger_reload] [INFO]- D:\MyProject\VisualizedPlatform\dongfanghengtai\urls.py changed, reloading.
+[2019-07-07 19:00:12,104] [autoreload.py:586] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2019-07-07 19:00:30,431] [autoreload.py:213] [autoreload:trigger_reload] [INFO]- D:\MyProject\VisualizedPlatform\dongfanghengtai\urls.py changed, reloading.
+[2019-07-07 19:00:31,508] [autoreload.py:586] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2019-07-07 19:00:39,068] [autoreload.py:213] [autoreload:trigger_reload] [INFO]- D:\MyProject\VisualizedPlatform\dongfanghengtai\urls.py changed, reloading.
+[2019-07-07 19:00:40,134] [autoreload.py:586] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2019-07-07 19:00:45,158] [autoreload.py:213] [autoreload:trigger_reload] [INFO]- D:\MyProject\VisualizedPlatform\dongfanghengtai\urls.py changed, reloading.
+[2019-07-07 19:00:46,288] [autoreload.py:586] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2019-07-07 19:00:47,986] [log.py:228] [log:log_response] [ERROR]- Internal Server Error: /Login/
+Traceback (most recent call last):
+  File "D:\Python37\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "D:\Python37\lib\site-packages\django\core\handlers\base.py", line 100, in _get_response
+    resolver_match = resolver.resolve(request.path_info)
+  File "D:\Python37\lib\site-packages\django\urls\resolvers.py", line 537, in resolve
+    sub_match = pattern.resolve(new_path)
+  File "D:\Python37\lib\site-packages\django\urls\resolvers.py", line 348, in resolve
+    kwargs.update(self.default_args)
+ValueError: dictionary update sequence element #0 has length 1; 2 is required
+[2019-07-07 19:00:47,989] [basehttp.py:154] [basehttp:log_message] [ERROR]- "GET /Login/ HTTP/1.1" 500 67602
+[2019-07-07 19:00:49,106] [log.py:228] [log:log_response] [ERROR]- Internal Server Error: /Login/
+Traceback (most recent call last):
+  File "D:\Python37\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "D:\Python37\lib\site-packages\django\core\handlers\base.py", line 100, in _get_response
+    resolver_match = resolver.resolve(request.path_info)
+  File "D:\Python37\lib\site-packages\django\urls\resolvers.py", line 537, in resolve
+    sub_match = pattern.resolve(new_path)
+  File "D:\Python37\lib\site-packages\django\urls\resolvers.py", line 348, in resolve
+    kwargs.update(self.default_args)
+ValueError: dictionary update sequence element #0 has length 1; 2 is required
+[2019-07-07 19:00:49,109] [basehttp.py:154] [basehttp:log_message] [ERROR]- "GET /Login/ HTTP/1.1" 500 67602
+[2019-07-07 19:00:49,990] [log.py:228] [log:log_response] [ERROR]- Internal Server Error: /Login/
+Traceback (most recent call last):
+  File "D:\Python37\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "D:\Python37\lib\site-packages\django\core\handlers\base.py", line 100, in _get_response
+    resolver_match = resolver.resolve(request.path_info)
+  File "D:\Python37\lib\site-packages\django\urls\resolvers.py", line 537, in resolve
+    sub_match = pattern.resolve(new_path)
+  File "D:\Python37\lib\site-packages\django\urls\resolvers.py", line 348, in resolve
+    kwargs.update(self.default_args)
+ValueError: dictionary update sequence element #0 has length 1; 2 is required
+[2019-07-07 19:00:49,993] [basehttp.py:154] [basehttp:log_message] [ERROR]- "GET /Login/ HTTP/1.1" 500 67602
+[2019-07-07 19:01:26,024] [log.py:228] [log:log_response] [ERROR]- Internal Server Error: /Index/
+Traceback (most recent call last):
+  File "D:\Python37\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "D:\Python37\lib\site-packages\django\core\handlers\base.py", line 100, in _get_response
+    resolver_match = resolver.resolve(request.path_info)
+  File "D:\Python37\lib\site-packages\django\urls\resolvers.py", line 537, in resolve
+    sub_match = pattern.resolve(new_path)
+  File "D:\Python37\lib\site-packages\django\urls\resolvers.py", line 348, in resolve
+    kwargs.update(self.default_args)
+ValueError: dictionary update sequence element #0 has length 1; 2 is required
+[2019-07-07 19:01:26,026] [basehttp.py:154] [basehttp:log_message] [ERROR]- "GET /Index/ HTTP/1.1" 500 67507
+[2019-07-07 19:01:29,636] [log.py:228] [log:log_response] [ERROR]- Internal Server Error: /Index/
+Traceback (most recent call last):
+  File "D:\Python37\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "D:\Python37\lib\site-packages\django\core\handlers\base.py", line 100, in _get_response
+    resolver_match = resolver.resolve(request.path_info)
+  File "D:\Python37\lib\site-packages\django\urls\resolvers.py", line 537, in resolve
+    sub_match = pattern.resolve(new_path)
+  File "D:\Python37\lib\site-packages\django\urls\resolvers.py", line 348, in resolve
+    kwargs.update(self.default_args)
+ValueError: dictionary update sequence element #0 has length 1; 2 is required
+[2019-07-07 19:01:29,639] [basehttp.py:154] [basehttp:log_message] [ERROR]- "GET /Index/ HTTP/1.1" 500 67642
+[2019-07-07 19:01:33,142] [autoreload.py:213] [autoreload:trigger_reload] [INFO]- D:\MyProject\VisualizedPlatform\dongfanghengtai\urls.py changed, reloading.
+[2019-07-07 19:01:34,290] [autoreload.py:586] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2019-07-07 19:01:35,014] [log.py:228] [log:log_response] [ERROR]- Internal Server Error: /Index/
+Traceback (most recent call last):
+  File "D:\Python37\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "D:\Python37\lib\site-packages\django\core\handlers\base.py", line 100, in _get_response
+    resolver_match = resolver.resolve(request.path_info)
+  File "D:\Python37\lib\site-packages\django\urls\resolvers.py", line 537, in resolve
+    sub_match = pattern.resolve(new_path)
+  File "D:\Python37\lib\site-packages\django\urls\resolvers.py", line 348, in resolve
+    kwargs.update(self.default_args)
+ValueError: dictionary update sequence element #0 has length 1; 2 is required
+[2019-07-07 19:01:35,018] [basehttp.py:154] [basehttp:log_message] [ERROR]- "GET /Index/ HTTP/1.1" 500 67642
+[2019-07-07 19:01:43,257] [autoreload.py:213] [autoreload:trigger_reload] [INFO]- D:\MyProject\VisualizedPlatform\dongfanghengtai\urls.py changed, reloading.
+[2019-07-07 19:01:44,351] [autoreload.py:586] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2019-07-07 19:01:44,938] [log.py:228] [log:log_response] [WARNING]- Not Found: /Index/
+[2019-07-07 19:01:44,939] [basehttp.py:154] [basehttp:log_message] [WARNING]- "GET /Index/ HTTP/1.1" 404 2287
+[2019-07-07 19:01:55,923] [log.py:228] [log:log_response] [ERROR]- Internal Server Error: /Login
+Traceback (most recent call last):
+  File "D:\Python37\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "D:\Python37\lib\site-packages\django\utils\deprecation.py", line 93, in __call__
+    response = self.process_request(request)
+  File "D:\Python37\lib\site-packages\django\middleware\common.py", line 52, in process_request
+    if self.should_redirect_with_slash(request):
+  File "D:\Python37\lib\site-packages\django\middleware\common.py", line 70, in should_redirect_with_slash
+    not is_valid_path(request.path_info, urlconf) and
+  File "D:\Python37\lib\site-packages\django\urls\base.py", line 157, in is_valid_path
+    resolve(path, urlconf)
+  File "D:\Python37\lib\site-packages\django\urls\base.py", line 24, in resolve
+    return get_resolver(urlconf).resolve(path)
+  File "D:\Python37\lib\site-packages\django\urls\resolvers.py", line 537, in resolve
+    sub_match = pattern.resolve(new_path)
+  File "D:\Python37\lib\site-packages\django\urls\resolvers.py", line 348, in resolve
+    kwargs.update(self.default_args)
+ValueError: dictionary update sequence element #0 has length 1; 2 is required
+[2019-07-07 19:01:55,926] [basehttp.py:154] [basehttp:log_message] [ERROR]- "GET /Login HTTP/1.1" 500 82459
+[2019-07-07 19:02:00,352] [log.py:228] [log:log_response] [WARNING]- Not Found: /Login、
+[2019-07-07 19:02:00,354] [basehttp.py:154] [basehttp:log_message] [WARNING]- "GET /Login%E3%80%81 HTTP/1.1" 404 2299
+[2019-07-07 19:02:03,777] [log.py:228] [log:log_response] [WARNING]- Not Found: /Login/
+[2019-07-07 19:02:03,778] [basehttp.py:154] [basehttp:log_message] [WARNING]- "GET /Login/ HTTP/1.1" 404 2287
+[2019-07-07 19:02:14,563] [log.py:228] [log:log_response] [WARNING]- Not Found: /make_circle/
+[2019-07-07 19:02:14,563] [basehttp.py:154] [basehttp:log_message] [WARNING]- "GET /make_circle/ HTTP/1.1" 404 2305
+[2019-07-07 19:02:20,025] [basehttp.py:154] [basehttp:log_message] [INFO]- "GET /make_circle HTTP/1.1" 200 7961
+[2019-07-07 19:02:20,041] [basehttp.py:154] [basehttp:log_message] [WARNING]- "GET /static/js/jquery-2.1.1.min.js HTTP/1.1" 404 1690
+[2019-07-07 19:02:20,620] [basehttp.py:154] [basehttp:log_message] [WARNING]- "GET /static/js/jquery-2.1.1.min.js HTTP/1.1" 404 1690
+[2019-07-07 19:02:26,874] [log.py:228] [log:log_response] [ERROR]- Internal Server Error: /Login
+Traceback (most recent call last):
+  File "D:\Python37\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "D:\Python37\lib\site-packages\django\utils\deprecation.py", line 93, in __call__
+    response = self.process_request(request)
+  File "D:\Python37\lib\site-packages\django\middleware\common.py", line 52, in process_request
+    if self.should_redirect_with_slash(request):
+  File "D:\Python37\lib\site-packages\django\middleware\common.py", line 70, in should_redirect_with_slash
+    not is_valid_path(request.path_info, urlconf) and
+  File "D:\Python37\lib\site-packages\django\urls\base.py", line 157, in is_valid_path
+    resolve(path, urlconf)
+  File "D:\Python37\lib\site-packages\django\urls\base.py", line 24, in resolve
+    return get_resolver(urlconf).resolve(path)
+  File "D:\Python37\lib\site-packages\django\urls\resolvers.py", line 537, in resolve
+    sub_match = pattern.resolve(new_path)
+  File "D:\Python37\lib\site-packages\django\urls\resolvers.py", line 348, in resolve
+    kwargs.update(self.default_args)
+ValueError: dictionary update sequence element #0 has length 1; 2 is required
+[2019-07-07 19:02:26,877] [basehttp.py:154] [basehttp:log_message] [ERROR]- "GET /Login HTTP/1.1" 500 82459
+[2019-07-07 19:04:02,842] [log.py:228] [log:log_response] [ERROR]- Internal Server Error: /Login
+Traceback (most recent call last):
+  File "D:\Python37\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "D:\Python37\lib\site-packages\django\utils\deprecation.py", line 93, in __call__
+    response = self.process_request(request)
+  File "D:\Python37\lib\site-packages\django\middleware\common.py", line 52, in process_request
+    if self.should_redirect_with_slash(request):
+  File "D:\Python37\lib\site-packages\django\middleware\common.py", line 70, in should_redirect_with_slash
+    not is_valid_path(request.path_info, urlconf) and
+  File "D:\Python37\lib\site-packages\django\urls\base.py", line 157, in is_valid_path
+    resolve(path, urlconf)
+  File "D:\Python37\lib\site-packages\django\urls\base.py", line 24, in resolve
+    return get_resolver(urlconf).resolve(path)
+  File "D:\Python37\lib\site-packages\django\urls\resolvers.py", line 537, in resolve
+    sub_match = pattern.resolve(new_path)
+  File "D:\Python37\lib\site-packages\django\urls\resolvers.py", line 348, in resolve
+    kwargs.update(self.default_args)
+ValueError: dictionary update sequence element #0 has length 1; 2 is required
+[2019-07-07 19:04:02,845] [basehttp.py:154] [basehttp:log_message] [ERROR]- "GET /Login HTTP/1.1" 500 82594
+[2019-07-07 19:04:06,639] [log.py:228] [log:log_response] [ERROR]- Internal Server Error: /Login
+Traceback (most recent call last):
+  File "D:\Python37\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "D:\Python37\lib\site-packages\django\utils\deprecation.py", line 93, in __call__
+    response = self.process_request(request)
+  File "D:\Python37\lib\site-packages\django\middleware\common.py", line 52, in process_request
+    if self.should_redirect_with_slash(request):
+  File "D:\Python37\lib\site-packages\django\middleware\common.py", line 70, in should_redirect_with_slash
+    not is_valid_path(request.path_info, urlconf) and
+  File "D:\Python37\lib\site-packages\django\urls\base.py", line 157, in is_valid_path
+    resolve(path, urlconf)
+  File "D:\Python37\lib\site-packages\django\urls\base.py", line 24, in resolve
+    return get_resolver(urlconf).resolve(path)
+  File "D:\Python37\lib\site-packages\django\urls\resolvers.py", line 537, in resolve
+    sub_match = pattern.resolve(new_path)
+  File "D:\Python37\lib\site-packages\django\urls\resolvers.py", line 348, in resolve
+    kwargs.update(self.default_args)
+ValueError: dictionary update sequence element #0 has length 1; 2 is required
+[2019-07-07 19:04:06,642] [basehttp.py:154] [basehttp:log_message] [ERROR]- "GET /Login HTTP/1.1" 500 82594
+[2019-07-07 19:04:12,652] [log.py:228] [log:log_response] [ERROR]- Internal Server Error: /Login
+Traceback (most recent call last):
+  File "D:\Python37\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "D:\Python37\lib\site-packages\django\utils\deprecation.py", line 93, in __call__
+    response = self.process_request(request)
+  File "D:\Python37\lib\site-packages\django\middleware\common.py", line 52, in process_request
+    if self.should_redirect_with_slash(request):
+  File "D:\Python37\lib\site-packages\django\middleware\common.py", line 70, in should_redirect_with_slash
+    not is_valid_path(request.path_info, urlconf) and
+  File "D:\Python37\lib\site-packages\django\urls\base.py", line 157, in is_valid_path
+    resolve(path, urlconf)
+  File "D:\Python37\lib\site-packages\django\urls\base.py", line 24, in resolve
+    return get_resolver(urlconf).resolve(path)
+  File "D:\Python37\lib\site-packages\django\urls\resolvers.py", line 537, in resolve
+    sub_match = pattern.resolve(new_path)
+  File "D:\Python37\lib\site-packages\django\urls\resolvers.py", line 348, in resolve
+    kwargs.update(self.default_args)
+ValueError: dictionary update sequence element #0 has length 1; 2 is required
+[2019-07-07 19:04:12,655] [basehttp.py:154] [basehttp:log_message] [ERROR]- "GET /Login HTTP/1.1" 500 82594
+[2019-07-07 19:04:20,456] [log.py:228] [log:log_response] [ERROR]- Internal Server Error: /Login
+Traceback (most recent call last):
+  File "D:\Python37\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "D:\Python37\lib\site-packages\django\utils\deprecation.py", line 93, in __call__
+    response = self.process_request(request)
+  File "D:\Python37\lib\site-packages\django\middleware\common.py", line 52, in process_request
+    if self.should_redirect_with_slash(request):
+  File "D:\Python37\lib\site-packages\django\middleware\common.py", line 70, in should_redirect_with_slash
+    not is_valid_path(request.path_info, urlconf) and
+  File "D:\Python37\lib\site-packages\django\urls\base.py", line 157, in is_valid_path
+    resolve(path, urlconf)
+  File "D:\Python37\lib\site-packages\django\urls\base.py", line 24, in resolve
+    return get_resolver(urlconf).resolve(path)
+  File "D:\Python37\lib\site-packages\django\urls\resolvers.py", line 537, in resolve
+    sub_match = pattern.resolve(new_path)
+  File "D:\Python37\lib\site-packages\django\urls\resolvers.py", line 348, in resolve
+    kwargs.update(self.default_args)
+ValueError: dictionary update sequence element #0 has length 1; 2 is required
+[2019-07-07 19:04:20,460] [basehttp.py:154] [basehttp:log_message] [ERROR]- "GET /Login HTTP/1.1" 500 82594
+[2019-07-07 19:04:58,466] [autoreload.py:213] [autoreload:trigger_reload] [INFO]- D:\MyProject\VisualizedPlatform\dongfanghengtai\urls.py changed, reloading.
+[2019-07-07 19:04:59,517] [autoreload.py:586] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2019-07-07 19:05:09,700] [autoreload.py:213] [autoreload:trigger_reload] [INFO]- D:\MyProject\VisualizedPlatform\dongfanghengtai\urls.py changed, reloading.
+[2019-07-07 19:05:10,808] [autoreload.py:586] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2019-07-07 19:05:11,621] [log.py:228] [log:log_response] [ERROR]- Internal Server Error: /Login
+Traceback (most recent call last):
+  File "D:\Python37\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "D:\Python37\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "D:\Python37\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\MyProject\VisualizedPlatform\UserAuthentication\views.py", line 15, in Login
+    return render(request, "Login.html")
+  File "D:\Python37\lib\site-packages\django\shortcuts.py", line 36, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "D:\Python37\lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "D:\Python37\lib\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: Login.html
+[2019-07-07 19:05:11,625] [basehttp.py:154] [basehttp:log_message] [ERROR]- "GET /Login HTTP/1.1" 500 82306
+[2019-07-07 19:06:00,589] [log.py:228] [log:log_response] [ERROR]- Internal Server Error: /Login
+Traceback (most recent call last):
+  File "D:\Python37\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "D:\Python37\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "D:\Python37\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\MyProject\VisualizedPlatform\UserAuthentication\views.py", line 15, in Login
+    return render(request, "Login.html")
+  File "D:\Python37\lib\site-packages\django\shortcuts.py", line 36, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "D:\Python37\lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "D:\Python37\lib\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: Login.html
+[2019-07-07 19:06:00,595] [basehttp.py:154] [basehttp:log_message] [ERROR]- "GET /Login HTTP/1.1" 500 82306
+[2019-07-07 19:06:14,196] [log.py:228] [log:log_response] [ERROR]- Internal Server Error: /Login
+Traceback (most recent call last):
+  File "D:\Python37\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "D:\Python37\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "D:\Python37\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\MyProject\VisualizedPlatform\UserAuthentication\views.py", line 15, in Login
+    return render(request, "Login.html")
+  File "D:\Python37\lib\site-packages\django\shortcuts.py", line 36, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "D:\Python37\lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "D:\Python37\lib\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: Login.html
+[2019-07-07 19:06:14,199] [basehttp.py:154] [basehttp:log_message] [ERROR]- "GET /Login HTTP/1.1" 500 82306
+[2019-07-07 19:06:51,693] [log.py:228] [log:log_response] [ERROR]- Internal Server Error: /Login
+Traceback (most recent call last):
+  File "D:\Python37\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "D:\Python37\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "D:\Python37\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\MyProject\VisualizedPlatform\UserAuthentication\views.py", line 15, in Login
+    return render(request, "View/Login.html")
+  File "D:\Python37\lib\site-packages\django\shortcuts.py", line 36, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "D:\Python37\lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "D:\Python37\lib\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: Login.html
+[2019-07-07 19:06:51,696] [basehttp.py:154] [basehttp:log_message] [ERROR]- "GET /Login HTTP/1.1" 500 82316
+[2019-07-07 19:06:51,806] [autoreload.py:213] [autoreload:trigger_reload] [INFO]- D:\MyProject\VisualizedPlatform\UserAuthentication\views.py changed, reloading.
+[2019-07-07 19:06:52,889] [autoreload.py:586] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2019-07-07 19:06:54,090] [log.py:228] [log:log_response] [ERROR]- Internal Server Error: /Login
+Traceback (most recent call last):
+  File "D:\Python37\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "D:\Python37\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "D:\Python37\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\MyProject\VisualizedPlatform\UserAuthentication\views.py", line 15, in Login
+    return render(request, "View/Login.html")
+  File "D:\Python37\lib\site-packages\django\shortcuts.py", line 36, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "D:\Python37\lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "D:\Python37\lib\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: View/Login.html
+[2019-07-07 19:06:54,094] [basehttp.py:154] [basehttp:log_message] [ERROR]- "GET /Login HTTP/1.1" 500 82386
+[2019-07-07 19:06:54,096] [basehttp.py:154] [basehttp:log_message] [ERROR]- "GET /Login HTTP/1.1" 500 59
+[2019-07-07 19:06:54,239] [log.py:228] [log:log_response] [ERROR]- Internal Server Error: /Login
+Traceback (most recent call last):
+  File "D:\Python37\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "D:\Python37\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "D:\Python37\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\MyProject\VisualizedPlatform\UserAuthentication\views.py", line 15, in Login
+    return render(request, "View/Login.html")
+  File "D:\Python37\lib\site-packages\django\shortcuts.py", line 36, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "D:\Python37\lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "D:\Python37\lib\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: View/Login.html
+[2019-07-07 19:06:54,241] [basehttp.py:154] [basehttp:log_message] [ERROR]- "GET /Login HTTP/1.1" 500 82386
+[2019-07-07 19:06:54,244] [basehttp.py:154] [basehttp:log_message] [ERROR]- "GET /Login HTTP/1.1" 500 59
+[2019-07-07 19:06:54,392] [log.py:228] [log:log_response] [ERROR]- Internal Server Error: /Login
+Traceback (most recent call last):
+  File "D:\Python37\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "D:\Python37\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "D:\Python37\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\MyProject\VisualizedPlatform\UserAuthentication\views.py", line 15, in Login
+    return render(request, "View/Login.html")
+  File "D:\Python37\lib\site-packages\django\shortcuts.py", line 36, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "D:\Python37\lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "D:\Python37\lib\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: View/Login.html
+[2019-07-07 19:06:54,394] [basehttp.py:154] [basehttp:log_message] [ERROR]- "GET /Login HTTP/1.1" 500 82386
+[2019-07-07 19:06:54,656] [log.py:228] [log:log_response] [ERROR]- Internal Server Error: /Login
+Traceback (most recent call last):
+  File "D:\Python37\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "D:\Python37\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "D:\Python37\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\MyProject\VisualizedPlatform\UserAuthentication\views.py", line 15, in Login
+    return render(request, "View/Login.html")
+  File "D:\Python37\lib\site-packages\django\shortcuts.py", line 36, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "D:\Python37\lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "D:\Python37\lib\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: View/Login.html
+[2019-07-07 19:06:54,659] [basehttp.py:154] [basehttp:log_message] [ERROR]- "GET /Login HTTP/1.1" 500 82386
+[2019-07-07 19:06:55,559] [log.py:228] [log:log_response] [ERROR]- Internal Server Error: /Login
+Traceback (most recent call last):
+  File "D:\Python37\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "D:\Python37\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "D:\Python37\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\MyProject\VisualizedPlatform\UserAuthentication\views.py", line 15, in Login
+    return render(request, "View/Login.html")
+  File "D:\Python37\lib\site-packages\django\shortcuts.py", line 36, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "D:\Python37\lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "D:\Python37\lib\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: View/Login.html
+[2019-07-07 19:06:55,563] [basehttp.py:154] [basehttp:log_message] [ERROR]- "GET /Login HTTP/1.1" 500 82386
+[2019-07-07 19:06:55,808] [log.py:228] [log:log_response] [ERROR]- Internal Server Error: /Login
+Traceback (most recent call last):
+  File "D:\Python37\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "D:\Python37\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "D:\Python37\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\MyProject\VisualizedPlatform\UserAuthentication\views.py", line 15, in Login
+    return render(request, "View/Login.html")
+  File "D:\Python37\lib\site-packages\django\shortcuts.py", line 36, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "D:\Python37\lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "D:\Python37\lib\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: View/Login.html
+[2019-07-07 19:06:55,812] [basehttp.py:154] [basehttp:log_message] [ERROR]- "GET /Login HTTP/1.1" 500 82386
+[2019-07-07 19:06:55,982] [log.py:228] [log:log_response] [ERROR]- Internal Server Error: /Login
+Traceback (most recent call last):
+  File "D:\Python37\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "D:\Python37\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "D:\Python37\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\MyProject\VisualizedPlatform\UserAuthentication\views.py", line 15, in Login
+    return render(request, "View/Login.html")
+  File "D:\Python37\lib\site-packages\django\shortcuts.py", line 36, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "D:\Python37\lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "D:\Python37\lib\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: View/Login.html
+[2019-07-07 19:06:55,985] [basehttp.py:154] [basehttp:log_message] [ERROR]- "GET /Login HTTP/1.1" 500 82386
+[2019-07-07 19:06:56,382] [log.py:228] [log:log_response] [ERROR]- Internal Server Error: /Login
+Traceback (most recent call last):
+  File "D:\Python37\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "D:\Python37\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "D:\Python37\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\MyProject\VisualizedPlatform\UserAuthentication\views.py", line 15, in Login
+    return render(request, "View/Login.html")
+  File "D:\Python37\lib\site-packages\django\shortcuts.py", line 36, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "D:\Python37\lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "D:\Python37\lib\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: View/Login.html
+[2019-07-07 19:06:56,384] [basehttp.py:154] [basehttp:log_message] [ERROR]- "GET /Login HTTP/1.1" 500 82386
+[2019-07-07 19:07:45,791] [autoreload.py:213] [autoreload:trigger_reload] [INFO]- D:\MyProject\VisualizedPlatform\UserAuthentication\views.py changed, reloading.
+[2019-07-07 19:07:46,954] [autoreload.py:586] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2019-07-07 19:07:49,726] [basehttp.py:154] [basehttp:log_message] [INFO]- "GET /Login HTTP/1.1" 200 366
+[2019-07-07 19:09:16,547] [basehttp.py:154] [basehttp:log_message] [INFO]- "GET /Login HTTP/1.1" 200 432
+[2019-07-07 19:09:25,256] [log.py:228] [log:log_response] [WARNING]- Not Found: /Login.html
+[2019-07-07 19:09:25,257] [basehttp.py:154] [basehttp:log_message] [WARNING]- "GET /Login.html?UserName=&UserPWD=&loginBtn=%E7%99%BB%E5%BD%95 HTTP/1.1" 404 2354
+[2019-07-07 19:10:42,179] [basehttp.py:154] [basehttp:log_message] [INFO]- "GET /Login HTTP/1.1" 200 446
+[2019-07-07 19:10:43,614] [log.py:228] [log:log_response] [WARNING]- Not Found: /Login.html
+[2019-07-07 19:10:43,615] [basehttp.py:154] [basehttp:log_message] [WARNING]- "POST /Login.html HTTP/1.1" 404 2300
+[2019-07-07 19:11:09,637] [basehttp.py:154] [basehttp:log_message] [INFO]- "GET /Login HTTP/1.1" 200 446
+[2019-07-07 19:11:15,122] [log.py:228] [log:log_response] [WARNING]- Not Found: /Login.html
+[2019-07-07 19:11:15,123] [basehttp.py:154] [basehttp:log_message] [WARNING]- "POST /Login.html HTTP/1.1" 404 2300
+[2019-07-07 19:11:51,033] [basehttp.py:154] [basehttp:log_message] [INFO]- "GET /Login HTTP/1.1" 200 441
+[2019-07-07 19:11:52,202] [log.py:228] [log:log_response] [WARNING]- Forbidden (CSRF token missing or incorrect.): /Login
+[2019-07-07 19:11:52,203] [basehttp.py:154] [basehttp:log_message] [WARNING]- "POST /Login HTTP/1.1" 403 2513
+[2019-07-07 19:12:27,150] [autoreload.py:213] [autoreload:trigger_reload] [INFO]- D:\MyProject\VisualizedPlatform\dongfanghengtai\settings.py changed, reloading.
+[2019-07-07 19:12:28,308] [autoreload.py:586] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2019-07-07 19:12:34,488] [log.py:228] [log:log_response] [ERROR]- Internal Server Error: /Login
+Traceback (most recent call last):
+  File "D:\Python37\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "D:\Python37\lib\site-packages\django\core\handlers\base.py", line 126, in _get_response
+    "returned None instead." % (callback.__module__, view_name)
+ValueError: The view UserAuthentication.views.Login didn't return an HttpResponse object. It returned None instead.
+[2019-07-07 19:12:34,490] [basehttp.py:154] [basehttp:log_message] [ERROR]- "POST /Login HTTP/1.1" 500 60044
+[2019-07-07 19:12:58,570] [autoreload.py:213] [autoreload:trigger_reload] [INFO]- D:\MyProject\VisualizedPlatform\UserAuthentication\views.py changed, reloading.
+[2019-07-07 19:12:59,683] [autoreload.py:586] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2019-07-07 19:13:03,594] [basehttp.py:154] [basehttp:log_message] [INFO]- "GET /Login HTTP/1.1" 200 441
+[2019-07-07 19:13:14,103] [autoreload.py:213] [autoreload:trigger_reload] [INFO]- D:\MyProject\VisualizedPlatform\UserAuthentication\views.py changed, reloading.
+[2019-07-07 19:13:15,233] [autoreload.py:586] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2019-07-07 19:13:20,027] [log.py:228] [log:log_response] [ERROR]- Internal Server Error: /Login
+Traceback (most recent call last):
+  File "D:\Python37\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "D:\Python37\lib\site-packages\django\core\handlers\base.py", line 126, in _get_response
+    "returned None instead." % (callback.__module__, view_name)
+ValueError: The view UserAuthentication.views.Login didn't return an HttpResponse object. It returned None instead.
+[2019-07-07 19:13:20,029] [basehttp.py:154] [basehttp:log_message] [ERROR]- "POST /Login HTTP/1.1" 500 60051
+[2019-07-07 19:13:58,865] [autoreload.py:213] [autoreload:trigger_reload] [INFO]- D:\MyProject\VisualizedPlatform\UserAuthentication\views.py changed, reloading.
+[2019-07-07 19:13:59,969] [autoreload.py:586] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2019-07-07 19:14:13,701] [autoreload.py:213] [autoreload:trigger_reload] [INFO]- D:\MyProject\VisualizedPlatform\UserAuthentication\views.py changed, reloading.
+[2019-07-07 19:14:14,736] [autoreload.py:586] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2019-07-07 19:14:20,039] [basehttp.py:154] [basehttp:log_message] [INFO]- "POST /Login HTTP/1.1" 200 441
+[2019-07-07 19:14:25,833] [basehttp.py:154] [basehttp:log_message] [INFO]- "POST /Login HTTP/1.1" 200 441
+[2019-07-07 19:20:08,591] [basehttp.py:154] [basehttp:log_message] [INFO]- "POST /Login HTTP/1.1" 200 441
+[2019-07-07 19:20:11,755] [basehttp.py:154] [basehttp:log_message] [INFO]- "POST /Login HTTP/1.1" 200 441
+[2019-07-07 19:20:22,530] [basehttp.py:154] [basehttp:log_message] [INFO]- "POST /Login HTTP/1.1" 200 441
+[2019-07-07 19:20:58,608] [autoreload.py:213] [autoreload:trigger_reload] [INFO]- D:\MyProject\VisualizedPlatform\UserAuthentication\views.py changed, reloading.
+[2019-07-07 19:20:59,641] [autoreload.py:586] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2019-07-07 19:21:00,536] [basehttp.py:154] [basehttp:log_message] [INFO]- "POST /Login HTTP/1.1" 200 441
+[2019-07-07 19:21:17,944] [basehttp.py:154] [basehttp:log_message] [INFO]- "POST /Login HTTP/1.1" 200 441
+[2019-07-07 19:23:38,672] [autoreload.py:213] [autoreload:trigger_reload] [INFO]- D:\MyProject\VisualizedPlatform\UserAuthentication\views.py changed, reloading.
+[2019-07-07 19:23:39,756] [autoreload.py:586] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2019-07-07 19:24:48,954] [autoreload.py:213] [autoreload:trigger_reload] [INFO]- D:\MyProject\VisualizedPlatform\UserAuthentication\views.py changed, reloading.
+[2019-07-07 19:24:49,967] [autoreload.py:586] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2019-07-07 19:25:12,170] [autoreload.py:213] [autoreload:trigger_reload] [INFO]- D:\MyProject\VisualizedPlatform\UserAuthentication\views.py changed, reloading.
+[2019-07-07 19:25:13,270] [autoreload.py:586] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2019-07-07 19:25:25,835] [autoreload.py:213] [autoreload:trigger_reload] [INFO]- D:\MyProject\VisualizedPlatform\UserAuthentication\views.py changed, reloading.
+[2019-07-07 19:25:26,905] [autoreload.py:586] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2019-07-07 19:25:53,928] [autoreload.py:213] [autoreload:trigger_reload] [INFO]- D:\MyProject\VisualizedPlatform\UserAuthentication\views.py changed, reloading.
+[2019-07-07 19:25:55,019] [autoreload.py:586] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2019-07-07 19:25:58,655] [autoreload.py:213] [autoreload:trigger_reload] [INFO]- D:\MyProject\VisualizedPlatform\UserAuthentication\views.py changed, reloading.
+[2019-07-07 19:25:59,669] [autoreload.py:586] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2019-07-07 19:26:15,192] [autoreload.py:213] [autoreload:trigger_reload] [INFO]- D:\MyProject\VisualizedPlatform\UserAuthentication\views.py changed, reloading.
+[2019-07-07 19:26:16,298] [autoreload.py:586] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2019-07-07 19:26:19,149] [log.py:228] [log:log_response] [ERROR]- Internal Server Error: /Login
+Traceback (most recent call last):
+  File "D:\Python37\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "D:\Python37\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "D:\Python37\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\MyProject\VisualizedPlatform\UserAuthentication\views.py", line 11, in Login
+    user1 = auth.User.objects.get(username = username)
+AttributeError: module 'django.contrib.auth' has no attribute 'User'
+[2019-07-07 19:26:19,151] [basehttp.py:154] [basehttp:log_message] [ERROR]- "POST /Login HTTP/1.1" 500 68896
+[2019-07-07 19:26:28,159] [autoreload.py:213] [autoreload:trigger_reload] [INFO]- D:\MyProject\VisualizedPlatform\UserAuthentication\views.py changed, reloading.
+[2019-07-07 19:26:29,226] [autoreload.py:586] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2019-07-07 19:26:31,553] [autoreload.py:213] [autoreload:trigger_reload] [INFO]- D:\MyProject\VisualizedPlatform\UserAuthentication\views.py changed, reloading.
+[2019-07-07 19:26:32,575] [autoreload.py:586] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2019-07-07 19:26:39,465] [basehttp.py:154] [basehttp:log_message] [INFO]- "POST /Login HTTP/1.1" 200 441
+[2019-07-07 19:27:46,603] [autoreload.py:213] [autoreload:trigger_reload] [INFO]- D:\MyProject\VisualizedPlatform\manage.py changed, reloading.
+[2019-07-07 19:27:47,708] [autoreload.py:586] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2019-07-07 19:30:04,758] [autoreload.py:213] [autoreload:trigger_reload] [INFO]- D:\MyProject\VisualizedPlatform\dongfanghengtai\urls.py changed, reloading.
+[2019-07-07 19:30:05,873] [autoreload.py:586] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2019-07-07 19:30:10,698] [autoreload.py:213] [autoreload:trigger_reload] [INFO]- D:\MyProject\VisualizedPlatform\dongfanghengtai\urls.py changed, reloading.
+[2019-07-07 19:30:11,788] [autoreload.py:586] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2019-07-07 19:30:58,793] [autoreload.py:213] [autoreload:trigger_reload] [INFO]- D:\MyProject\VisualizedPlatform\UserAuthentication\views.py changed, reloading.
+[2019-07-07 19:30:59,839] [autoreload.py:586] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2019-07-07 19:31:20,405] [autoreload.py:213] [autoreload:trigger_reload] [INFO]- D:\MyProject\VisualizedPlatform\UserAuthentication\views.py changed, reloading.
+[2019-07-07 19:31:21,484] [autoreload.py:586] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2019-07-07 19:31:27,700] [autoreload.py:213] [autoreload:trigger_reload] [INFO]- D:\MyProject\VisualizedPlatform\UserAuthentication\views.py changed, reloading.
+[2019-07-07 19:31:28,808] [autoreload.py:586] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2019-07-07 19:31:37,555] [autoreload.py:213] [autoreload:trigger_reload] [INFO]- D:\MyProject\VisualizedPlatform\UserAuthentication\views.py changed, reloading.
+[2019-07-07 19:31:38,623] [autoreload.py:586] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2019-07-07 19:31:40,952] [autoreload.py:213] [autoreload:trigger_reload] [INFO]- D:\MyProject\VisualizedPlatform\UserAuthentication\views.py changed, reloading.
+[2019-07-07 19:31:42,026] [autoreload.py:586] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2019-07-07 19:34:45,186] [autoreload.py:586] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2019-07-07 19:34:52,326] [log.py:228] [log:log_response] [ERROR]- Internal Server Error: /Regist
+Traceback (most recent call last):
+  File "D:\Python37\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "D:\Python37\lib\site-packages\django\utils\deprecation.py", line 96, in __call__
+    response = self.process_response(request, response)
+  File "D:\Python37\lib\site-packages\django\middleware\clickjacking.py", line 26, in process_response
+    if response.get('X-Frame-Options') is not None:
+AttributeError: 'tuple' object has no attribute 'get'
+[2019-07-07 19:34:52,329] [basehttp.py:154] [basehttp:log_message] [ERROR]- "GET /Regist HTTP/1.1" 500 60755
+[2019-07-07 19:34:59,169] [log.py:228] [log:log_response] [ERROR]- Internal Server Error: /Regist
+Traceback (most recent call last):
+  File "D:\Python37\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "D:\Python37\lib\site-packages\django\utils\deprecation.py", line 96, in __call__
+    response = self.process_response(request, response)
+  File "D:\Python37\lib\site-packages\django\middleware\clickjacking.py", line 26, in process_response
+    if response.get('X-Frame-Options') is not None:
+AttributeError: 'tuple' object has no attribute 'get'
+[2019-07-07 19:34:59,172] [basehttp.py:154] [basehttp:log_message] [ERROR]- "GET /Regist HTTP/1.1" 500 60890
+[2019-07-07 19:35:34,567] [log.py:228] [log:log_response] [ERROR]- Internal Server Error: /Regist
+Traceback (most recent call last):
+  File "D:\Python37\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "D:\Python37\lib\site-packages\django\utils\deprecation.py", line 96, in __call__
+    response = self.process_response(request, response)
+  File "D:\Python37\lib\site-packages\django\middleware\clickjacking.py", line 26, in process_response
+    if response.get('X-Frame-Options') is not None:
+AttributeError: 'tuple' object has no attribute 'get'
+[2019-07-07 19:35:34,569] [basehttp.py:154] [basehttp:log_message] [ERROR]- "GET /Regist HTTP/1.1" 500 60890
+[2019-07-07 19:36:08,565] [log.py:228] [log:log_response] [ERROR]- Internal Server Error: /Regist
+Traceback (most recent call last):
+  File "D:\Python37\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "D:\Python37\lib\site-packages\django\utils\deprecation.py", line 96, in __call__
+    response = self.process_response(request, response)
+  File "D:\Python37\lib\site-packages\django\middleware\clickjacking.py", line 26, in process_response
+    if response.get('X-Frame-Options') is not None:
+AttributeError: 'tuple' object has no attribute 'get'
+[2019-07-07 19:36:08,568] [basehttp.py:154] [basehttp:log_message] [ERROR]- "GET /Regist HTTP/1.1" 500 60890
+[2019-07-07 19:36:31,975] [autoreload.py:213] [autoreload:trigger_reload] [INFO]- D:\MyProject\VisualizedPlatform\UserAuthentication\views.py changed, reloading.
+[2019-07-07 19:36:33,083] [autoreload.py:586] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2019-07-07 19:36:33,830] [log.py:228] [log:log_response] [ERROR]- Internal Server Error: /Regist
+Traceback (most recent call last):
+  File "D:\Python37\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "D:\Python37\lib\site-packages\django\utils\deprecation.py", line 96, in __call__
+    response = self.process_response(request, response)
+  File "D:\Python37\lib\site-packages\django\middleware\clickjacking.py", line 26, in process_response
+    if response.get('X-Frame-Options') is not None:
+AttributeError: 'tuple' object has no attribute 'get'
+[2019-07-07 19:36:33,833] [basehttp.py:154] [basehttp:log_message] [ERROR]- "GET /Regist HTTP/1.1" 500 60890
+[2019-07-07 19:36:48,810] [autoreload.py:213] [autoreload:trigger_reload] [INFO]- D:\MyProject\VisualizedPlatform\UserAuthentication\views.py changed, reloading.
+[2019-07-07 19:36:49,883] [autoreload.py:586] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2019-07-07 19:36:50,599] [log.py:228] [log:log_response] [ERROR]- Internal Server Error: /Regist
+Traceback (most recent call last):
+  File "D:\Python37\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "D:\Python37\lib\site-packages\django\utils\deprecation.py", line 96, in __call__
+    response = self.process_response(request, response)
+  File "D:\Python37\lib\site-packages\django\middleware\clickjacking.py", line 26, in process_response
+    if response.get('X-Frame-Options') is not None:
+AttributeError: 'tuple' object has no attribute 'get'
+[2019-07-07 19:36:50,602] [basehttp.py:154] [basehttp:log_message] [ERROR]- "GET /Regist HTTP/1.1" 500 60890
+[2019-07-07 19:37:02,617] [log.py:228] [log:log_response] [ERROR]- Internal Server Error: /Regist
+Traceback (most recent call last):
+  File "D:\Python37\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "D:\Python37\lib\site-packages\django\utils\deprecation.py", line 96, in __call__
+    response = self.process_response(request, response)
+  File "D:\Python37\lib\site-packages\django\middleware\clickjacking.py", line 26, in process_response
+    if response.get('X-Frame-Options') is not None:
+AttributeError: 'tuple' object has no attribute 'get'
+[2019-07-07 19:37:02,620] [basehttp.py:154] [basehttp:log_message] [ERROR]- "GET /Regist HTTP/1.1" 500 60890
+[2019-07-07 19:37:02,878] [autoreload.py:213] [autoreload:trigger_reload] [INFO]- D:\MyProject\VisualizedPlatform\UserAuthentication\views.py changed, reloading.
+[2019-07-07 19:37:03,922] [autoreload.py:586] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2019-07-07 19:37:04,771] [basehttp.py:154] [basehttp:log_message] [INFO]- "GET /Regist HTTP/1.1" 200 434
+[2019-07-07 19:37:29,892] [basehttp.py:154] [basehttp:log_message] [INFO]- "POST /Regist HTTP/1.1" 200 441
+[2019-07-07 19:38:08,402] [autoreload.py:213] [autoreload:trigger_reload] [INFO]- D:\MyProject\VisualizedPlatform\UserAuthentication\views.py changed, reloading.
+[2019-07-07 19:38:09,576] [autoreload.py:586] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2019-07-07 19:38:23,984] [basehttp.py:154] [basehttp:log_message] [INFO]- "POST /Login HTTP/1.1" 200 124
+[2019-07-07 19:40:05,098] [autoreload.py:213] [autoreload:trigger_reload] [INFO]- D:\MyProject\VisualizedPlatform\UserAuthentication\views.py changed, reloading.
+[2019-07-07 19:40:06,130] [autoreload.py:586] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2019-07-07 19:40:12,438] [autoreload.py:213] [autoreload:trigger_reload] [INFO]- D:\MyProject\VisualizedPlatform\UserAuthentication\views.py changed, reloading.
+[2019-07-07 19:40:13,475] [autoreload.py:586] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2019-07-07 19:41:34,340] [autoreload.py:213] [autoreload:trigger_reload] [INFO]- D:\MyProject\VisualizedPlatform\UserAuthentication\views.py changed, reloading.
+[2019-07-07 19:41:35,472] [autoreload.py:586] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2019-07-07 19:41:56,165] [autoreload.py:213] [autoreload:trigger_reload] [INFO]- D:\MyProject\VisualizedPlatform\UserAuthentication\views.py changed, reloading.
+[2019-07-07 19:41:57,227] [autoreload.py:586] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2019-07-07 19:42:24,882] [autoreload.py:213] [autoreload:trigger_reload] [INFO]- D:\MyProject\VisualizedPlatform\UserAuthentication\views.py changed, reloading.
+[2019-07-07 19:42:25,923] [autoreload.py:586] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2019-07-07 19:42:29,653] [autoreload.py:213] [autoreload:trigger_reload] [INFO]- D:\MyProject\VisualizedPlatform\UserAuthentication\views.py changed, reloading.
+[2019-07-07 19:42:30,717] [autoreload.py:586] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2019-07-07 19:42:43,724] [autoreload.py:213] [autoreload:trigger_reload] [INFO]- D:\MyProject\VisualizedPlatform\UserAuthentication\views.py changed, reloading.
+[2019-07-07 19:42:44,838] [autoreload.py:586] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2019-07-07 19:42:47,210] [autoreload.py:213] [autoreload:trigger_reload] [INFO]- D:\MyProject\VisualizedPlatform\UserAuthentication\views.py changed, reloading.
+[2019-07-07 19:42:48,265] [autoreload.py:586] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2019-07-07 19:43:24,504] [basehttp.py:154] [basehttp:log_message] [INFO]- "POST /Login HTTP/1.1" 200 153
+[2019-07-07 19:43:33,581] [basehttp.py:154] [basehttp:log_message] [INFO]- "GET /Login HTTP/1.1" 200 441
+[2019-07-07 19:43:40,933] [basehttp.py:154] [basehttp:log_message] [INFO]- "POST /Login HTTP/1.1" 200 441
+[2019-07-07 19:43:46,329] [basehttp.py:154] [basehttp:log_message] [INFO]- "POST /Login HTTP/1.1" 200 441
+[2019-07-07 19:43:52,153] [basehttp.py:154] [basehttp:log_message] [INFO]- "POST /Login HTTP/1.1" 200 441
+[2019-07-07 19:43:59,174] [basehttp.py:154] [basehttp:log_message] [INFO]- "POST /Login HTTP/1.1" 200 153
+[2019-07-07 19:46:52,316] [autoreload.py:213] [autoreload:trigger_reload] [INFO]- D:\MyProject\VisualizedPlatform\UserAuthentication\views.py changed, reloading.
+[2019-07-07 19:46:53,452] [autoreload.py:586] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2019-07-07 19:47:00,599] [basehttp.py:154] [basehttp:log_message] [INFO]- "POST /Login HTTP/1.1" 200 153
+[2019-07-07 19:47:02,410] [basehttp.py:154] [basehttp:log_message] [INFO]- "POST /Login HTTP/1.1" 200 153
+[2019-07-07 19:47:05,824] [basehttp.py:154] [basehttp:log_message] [INFO]- "GET /Login HTTP/1.1" 200 441
+[2019-07-07 19:47:09,954] [basehttp.py:154] [basehttp:log_message] [INFO]- "POST /Login HTTP/1.1" 200 153
+[2019-07-07 19:47:54,360] [basehttp.py:154] [basehttp:log_message] [INFO]- "POST /Login HTTP/1.1" 200 158
+[2019-07-07 19:48:28,929] [basehttp.py:154] [basehttp:log_message] [INFO]- "POST /Login HTTP/1.1" 200 195
+[2019-07-07 19:49:05,410] [autoreload.py:213] [autoreload:trigger_reload] [INFO]- D:\MyProject\VisualizedPlatform\UserAuthentication\views.py changed, reloading.
+[2019-07-07 19:49:06,487] [autoreload.py:586] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2019-07-07 19:49:12,928] [autoreload.py:213] [autoreload:trigger_reload] [INFO]- D:\MyProject\VisualizedPlatform\UserAuthentication\views.py changed, reloading.
+[2019-07-07 19:49:14,019] [autoreload.py:586] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2019-07-07 19:50:57,735] [autoreload.py:213] [autoreload:trigger_reload] [INFO]- D:\MyProject\VisualizedPlatform\UserAuthentication\views.py changed, reloading.
+[2019-07-07 19:50:58,784] [autoreload.py:586] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2019-07-07 19:51:04,745] [autoreload.py:213] [autoreload:trigger_reload] [INFO]- D:\MyProject\VisualizedPlatform\UserAuthentication\views.py changed, reloading.
+[2019-07-07 19:51:05,830] [autoreload.py:586] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2019-07-07 19:51:14,677] [autoreload.py:213] [autoreload:trigger_reload] [INFO]- D:\MyProject\VisualizedPlatform\UserAuthentication\views.py changed, reloading.
+[2019-07-07 19:51:15,803] [autoreload.py:586] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2019-07-07 19:51:27,247] [autoreload.py:213] [autoreload:trigger_reload] [INFO]- D:\MyProject\VisualizedPlatform\UserAuthentication\views.py changed, reloading.
+[2019-07-07 19:51:28,307] [autoreload.py:586] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2019-07-07 19:51:35,774] [autoreload.py:213] [autoreload:trigger_reload] [INFO]- D:\MyProject\VisualizedPlatform\UserAuthentication\views.py changed, reloading.
+[2019-07-07 19:51:36,814] [autoreload.py:586] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2019-07-07 19:52:05,413] [autoreload.py:213] [autoreload:trigger_reload] [INFO]- D:\MyProject\VisualizedPlatform\UserAuthentication\views.py changed, reloading.
+[2019-07-07 19:52:06,476] [autoreload.py:586] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2019-07-07 19:52:15,408] [autoreload.py:213] [autoreload:trigger_reload] [INFO]- D:\MyProject\VisualizedPlatform\UserAuthentication\views.py changed, reloading.
+[2019-07-07 19:52:16,483] [autoreload.py:586] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2019-07-07 19:52:34,637] [autoreload.py:213] [autoreload:trigger_reload] [INFO]- D:\MyProject\VisualizedPlatform\UserAuthentication\views.py changed, reloading.
+[2019-07-07 19:52:35,679] [autoreload.py:586] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2019-07-07 19:52:47,316] [autoreload.py:213] [autoreload:trigger_reload] [INFO]- D:\MyProject\VisualizedPlatform\UserAuthentication\views.py changed, reloading.
+[2019-07-07 19:52:48,420] [autoreload.py:586] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2019-07-07 19:52:58,714] [autoreload.py:213] [autoreload:trigger_reload] [INFO]- D:\MyProject\VisualizedPlatform\UserAuthentication\views.py changed, reloading.
+[2019-07-07 19:53:00,202] [autoreload.py:586] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2019-07-07 19:53:05,274] [autoreload.py:213] [autoreload:trigger_reload] [INFO]- D:\MyProject\VisualizedPlatform\UserAuthentication\views.py changed, reloading.
+[2019-07-07 19:53:06,445] [autoreload.py:586] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2019-07-07 19:53:20,596] [basehttp.py:154] [basehttp:log_message] [INFO]- "GET /Login HTTP/1.1" 200 441
+[2019-07-07 19:53:32,723] [log.py:228] [log:log_response] [ERROR]- Internal Server Error: /Login
+Traceback (most recent call last):
+  File "D:\Python37\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "D:\Python37\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "D:\Python37\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\MyProject\VisualizedPlatform\UserAuthentication\views.py", line 17, in Login
+    redirect('Index')
+  File "D:\Python37\lib\site-packages\django\shortcuts.py", line 58, in redirect
+    return redirect_class(resolve_url(to, *args, **kwargs))
+  File "D:\Python37\lib\site-packages\django\shortcuts.py", line 148, in resolve_url
+    return reverse(to, args=args, kwargs=kwargs)
+  File "D:\Python37\lib\site-packages\django\urls\base.py", line 90, in reverse
+    return iri_to_uri(resolver._reverse_with_prefix(view, prefix, *args, **kwargs))
+  File "D:\Python37\lib\site-packages\django\urls\resolvers.py", line 668, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'Index' not found. 'Index' is not a valid view function or pattern name.
+[2019-07-07 19:53:32,727] [basehttp.py:154] [basehttp:log_message] [ERROR]- "POST /Login HTTP/1.1" 500 87832
+[2019-07-07 19:55:15,408] [basehttp.py:154] [basehttp:log_message] [INFO]- "GET /Login HTTP/1.1" 200 441
+[2019-07-07 19:55:17,284] [log.py:228] [log:log_response] [ERROR]- Internal Server Error: /Index
+Traceback (most recent call last):
+  File "D:\Python37\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "D:\Python37\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "D:\Python37\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\MyProject\VisualizedPlatform\UserAuthentication\views.py", line 25, in index
+    if request.user.is_authenticated():
+TypeError: 'bool' object is not callable
+[2019-07-07 19:55:17,287] [basehttp.py:154] [basehttp:log_message] [ERROR]- "GET /Index HTTP/1.1" 500 67481
+[2019-07-07 19:55:40,988] [autoreload.py:213] [autoreload:trigger_reload] [INFO]- D:\MyProject\VisualizedPlatform\UserAuthentication\views.py changed, reloading.
+[2019-07-07 19:55:42,109] [autoreload.py:586] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2019-07-07 19:55:44,783] [autoreload.py:213] [autoreload:trigger_reload] [INFO]- D:\MyProject\VisualizedPlatform\UserAuthentication\views.py changed, reloading.
+[2019-07-07 19:55:45,857] [autoreload.py:586] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2019-07-07 19:55:48,257] [autoreload.py:213] [autoreload:trigger_reload] [INFO]- D:\MyProject\VisualizedPlatform\UserAuthentication\views.py changed, reloading.
+[2019-07-07 19:55:49,315] [autoreload.py:586] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2019-07-07 19:55:51,686] [basehttp.py:154] [basehttp:log_message] [INFO]- "GET /Login HTTP/1.1" 200 441
+[2019-07-07 19:56:00,049] [log.py:228] [log:log_response] [ERROR]- Internal Server Error: /Login
+Traceback (most recent call last):
+  File "D:\Python37\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "D:\Python37\lib\site-packages\django\core\handlers\base.py", line 126, in _get_response
+    "returned None instead." % (callback.__module__, view_name)
+ValueError: The view UserAuthentication.views.Login didn't return an HttpResponse object. It returned None instead.
+[2019-07-07 19:56:00,052] [basehttp.py:154] [basehttp:log_message] [ERROR]- "POST /Login HTTP/1.1" 500 60566
+[2019-07-07 19:56:41,106] [autoreload.py:213] [autoreload:trigger_reload] [INFO]- D:\MyProject\VisualizedPlatform\UserAuthentication\views.py changed, reloading.
+[2019-07-07 19:56:42,199] [autoreload.py:586] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2019-07-07 19:56:59,101] [autoreload.py:213] [autoreload:trigger_reload] [INFO]- D:\MyProject\VisualizedPlatform\UserAuthentication\views.py changed, reloading.
+[2019-07-07 19:57:00,218] [autoreload.py:586] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2019-07-07 19:57:05,293] [basehttp.py:154] [basehttp:log_message] [INFO]- "GET /Login HTTP/1.1" 200 441
+[2019-07-07 19:57:10,506] [basehttp.py:154] [basehttp:log_message] [INFO]- "POST /Login HTTP/1.1" 302 0
+[2019-07-07 19:57:10,547] [log.py:228] [log:log_response] [ERROR]- Internal Server Error: /Index
+Traceback (most recent call last):
+  File "D:\Python37\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "D:\Python37\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "D:\Python37\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\MyProject\VisualizedPlatform\UserAuthentication\views.py", line 25, in index
+    if request.user.is_authenticated():
+TypeError: 'bool' object is not callable
+[2019-07-07 19:57:10,549] [basehttp.py:154] [basehttp:log_message] [ERROR]- "GET /Index HTTP/1.1" 500 67763
+[2019-07-07 20:00:27,658] [autoreload.py:213] [autoreload:trigger_reload] [INFO]- D:\MyProject\VisualizedPlatform\UserAuthentication\views.py changed, reloading.
+[2019-07-07 20:00:28,776] [autoreload.py:586] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2019-07-07 20:00:34,084] [basehttp.py:154] [basehttp:log_message] [INFO]- "GET /Login HTTP/1.1" 200 441
+[2019-07-07 20:00:41,151] [log.py:228] [log:log_response] [ERROR]- Internal Server Error: /Login
+Traceback (most recent call last):
+  File "D:\Python37\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "D:\Python37\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "D:\Python37\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\MyProject\VisualizedPlatform\UserAuthentication\views.py", line 17, in Login
+    return redirect(request, '/Index')
+  File "D:\Python37\lib\site-packages\django\shortcuts.py", line 58, in redirect
+    return redirect_class(resolve_url(to, *args, **kwargs))
+  File "D:\Python37\lib\site-packages\django\shortcuts.py", line 148, in resolve_url
+    return reverse(to, args=args, kwargs=kwargs)
+  File "D:\Python37\lib\site-packages\django\urls\base.py", line 90, in reverse
+    return iri_to_uri(resolver._reverse_with_prefix(view, prefix, *args, **kwargs))
+  File "D:\Python37\lib\site-packages\django\urls\resolvers.py", line 668, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for '<WSGIRequest: POST '/Login'>' not found. '<WSGIRequest: POST '/Login'>' is not a valid view function or pattern name.
+[2019-07-07 20:00:41,155] [basehttp.py:154] [basehttp:log_message] [ERROR]- "POST /Login HTTP/1.1" 500 87521
+[2019-07-07 20:05:49,167] [autoreload.py:213] [autoreload:trigger_reload] [INFO]- D:\MyProject\VisualizedPlatform\UserAuthentication\views.py changed, reloading.
+[2019-07-07 20:05:50,231] [autoreload.py:586] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2019-07-07 20:05:54,676] [basehttp.py:154] [basehttp:log_message] [INFO]- "GET /Login HTTP/1.1" 200 441
+[2019-07-07 20:06:05,215] [log.py:228] [log:log_response] [ERROR]- Internal Server Error: /Login
+Traceback (most recent call last):
+  File "D:\Python37\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "D:\Python37\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "D:\Python37\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\MyProject\VisualizedPlatform\UserAuthentication\views.py", line 17, in Login
+    return redirect(request, '/Index')
+  File "D:\Python37\lib\site-packages\django\shortcuts.py", line 58, in redirect
+    return redirect_class(resolve_url(to, *args, **kwargs))
+  File "D:\Python37\lib\site-packages\django\shortcuts.py", line 148, in resolve_url
+    return reverse(to, args=args, kwargs=kwargs)
+  File "D:\Python37\lib\site-packages\django\urls\base.py", line 90, in reverse
+    return iri_to_uri(resolver._reverse_with_prefix(view, prefix, *args, **kwargs))
+  File "D:\Python37\lib\site-packages\django\urls\resolvers.py", line 668, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for '<WSGIRequest: POST '/Login'>' not found. '<WSGIRequest: POST '/Login'>' is not a valid view function or pattern name.
+[2019-07-07 20:06:05,218] [basehttp.py:154] [basehttp:log_message] [ERROR]- "POST /Login HTTP/1.1" 500 87521
+[2019-07-07 20:06:31,341] [autoreload.py:213] [autoreload:trigger_reload] [INFO]- D:\MyProject\VisualizedPlatform\UserAuthentication\views.py changed, reloading.
+[2019-07-07 20:06:32,424] [autoreload.py:586] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2019-07-07 20:06:33,234] [basehttp.py:154] [basehttp:log_message] [INFO]- "GET /Login HTTP/1.1" 200 441
+[2019-07-07 20:06:38,827] [log.py:228] [log:log_response] [ERROR]- Internal Server Error: /Login
+Traceback (most recent call last):
+  File "D:\Python37\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "D:\Python37\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "D:\Python37\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\MyProject\VisualizedPlatform\UserAuthentication\views.py", line 18, in Login
+    return redirect(request, '/Index')
+  File "D:\Python37\lib\site-packages\django\shortcuts.py", line 58, in redirect
+    return redirect_class(resolve_url(to, *args, **kwargs))
+  File "D:\Python37\lib\site-packages\django\shortcuts.py", line 148, in resolve_url
+    return reverse(to, args=args, kwargs=kwargs)
+  File "D:\Python37\lib\site-packages\django\urls\base.py", line 90, in reverse
+    return iri_to_uri(resolver._reverse_with_prefix(view, prefix, *args, **kwargs))
+  File "D:\Python37\lib\site-packages\django\urls\resolvers.py", line 668, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for '<WSGIRequest: POST '/Login'>' not found. '<WSGIRequest: POST '/Login'>' is not a valid view function or pattern name.
+[2019-07-07 20:06:38,830] [basehttp.py:154] [basehttp:log_message] [ERROR]- "POST /Login HTTP/1.1" 500 87542
+[2019-07-07 20:06:56,271] [autoreload.py:213] [autoreload:trigger_reload] [INFO]- D:\MyProject\VisualizedPlatform\UserAuthentication\views.py changed, reloading.
+[2019-07-07 20:06:57,306] [autoreload.py:586] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2019-07-07 20:06:59,900] [basehttp.py:154] [basehttp:log_message] [INFO]- "GET /Login HTTP/1.1" 200 441
+[2019-07-07 20:07:03,455] [log.py:228] [log:log_response] [ERROR]- Internal Server Error: /Login
+Traceback (most recent call last):
+  File "D:\Python37\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "D:\Python37\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "D:\Python37\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\MyProject\VisualizedPlatform\UserAuthentication\views.py", line 18, in Login
+    return redirect(request, 'Index')
+  File "D:\Python37\lib\site-packages\django\shortcuts.py", line 58, in redirect
+    return redirect_class(resolve_url(to, *args, **kwargs))
+  File "D:\Python37\lib\site-packages\django\shortcuts.py", line 148, in resolve_url
+    return reverse(to, args=args, kwargs=kwargs)
+  File "D:\Python37\lib\site-packages\django\urls\base.py", line 90, in reverse
+    return iri_to_uri(resolver._reverse_with_prefix(view, prefix, *args, **kwargs))
+  File "D:\Python37\lib\site-packages\django\urls\resolvers.py", line 668, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for '<WSGIRequest: POST '/Login'>' not found. '<WSGIRequest: POST '/Login'>' is not a valid view function or pattern name.
+[2019-07-07 20:07:03,460] [basehttp.py:154] [basehttp:log_message] [ERROR]- "POST /Login HTTP/1.1" 500 87536
+[2019-07-07 20:07:30,593] [autoreload.py:213] [autoreload:trigger_reload] [INFO]- D:\MyProject\VisualizedPlatform\UserAuthentication\views.py changed, reloading.
+[2019-07-07 20:07:31,776] [autoreload.py:586] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2019-07-07 20:07:39,145] [basehttp.py:154] [basehttp:log_message] [INFO]- "GET /Login HTTP/1.1" 200 441
+[2019-07-07 20:07:44,817] [log.py:228] [log:log_response] [ERROR]- Internal Server Error: /Login
+Traceback (most recent call last):
+  File "D:\Python37\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "D:\Python37\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "D:\Python37\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\MyProject\VisualizedPlatform\UserAuthentication\views.py", line 18, in Login
+    return redirect(request, '/Index')
+  File "D:\Python37\lib\site-packages\django\shortcuts.py", line 58, in redirect
+    return redirect_class(resolve_url(to, *args, **kwargs))
+  File "D:\Python37\lib\site-packages\django\shortcuts.py", line 148, in resolve_url
+    return reverse(to, args=args, kwargs=kwargs)
+  File "D:\Python37\lib\site-packages\django\urls\base.py", line 90, in reverse
+    return iri_to_uri(resolver._reverse_with_prefix(view, prefix, *args, **kwargs))
+  File "D:\Python37\lib\site-packages\django\urls\resolvers.py", line 668, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for '<WSGIRequest: POST '/Login'>' not found. '<WSGIRequest: POST '/Login'>' is not a valid view function or pattern name.
+[2019-07-07 20:07:44,821] [basehttp.py:154] [basehttp:log_message] [ERROR]- "POST /Login HTTP/1.1" 500 87542
+[2019-07-07 20:08:03,798] [autoreload.py:213] [autoreload:trigger_reload] [INFO]- D:\MyProject\VisualizedPlatform\UserAuthentication\views.py changed, reloading.
+[2019-07-07 20:08:04,985] [autoreload.py:586] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2019-07-07 20:08:08,959] [basehttp.py:154] [basehttp:log_message] [INFO]- "GET /Login HTTP/1.1" 200 441
+[2019-07-07 20:08:14,653] [basehttp.py:154] [basehttp:log_message] [INFO]- "POST /Login HTTP/1.1" 302 0
+[2019-07-07 20:08:14,704] [log.py:228] [log:log_response] [ERROR]- Internal Server Error: /Index
+Traceback (most recent call last):
+  File "D:\Python37\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "D:\Python37\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "D:\Python37\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\MyProject\VisualizedPlatform\UserAuthentication\views.py", line 27, in index
+    if request.user.is_authenticated():
+TypeError: 'bool' object is not callable
+[2019-07-07 20:08:14,707] [basehttp.py:154] [basehttp:log_message] [ERROR]- "GET /Index HTTP/1.1" 500 67784
+[2019-07-07 20:09:20,347] [autoreload.py:213] [autoreload:trigger_reload] [INFO]- D:\MyProject\VisualizedPlatform\UserAuthentication\views.py changed, reloading.
+[2019-07-07 20:09:21,382] [autoreload.py:586] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2019-07-07 20:09:30,620] [basehttp.py:154] [basehttp:log_message] [INFO]- "GET /Login HTTP/1.1" 200 441
+[2019-07-07 20:09:37,322] [basehttp.py:154] [basehttp:log_message] [INFO]- "POST /Login HTTP/1.1" 302 0
+[2019-07-07 20:09:37,334] [basehttp.py:154] [basehttp:log_message] [INFO]- "GET /Index HTTP/1.1" 200 195
+[2019-07-07 20:09:45,613] [basehttp.py:154] [basehttp:log_message] [INFO]- "GET /Login HTTP/1.1" 200 441
+[2019-07-07 20:09:48,715] [basehttp.py:154] [basehttp:log_message] [INFO]- "GET /Index HTTP/1.1" 200 195
+[2019-07-07 20:11:34,962] [autoreload.py:213] [autoreload:trigger_reload] [INFO]- D:\MyProject\VisualizedPlatform\UserAuthentication\views.py changed, reloading.
+[2019-07-07 20:11:36,161] [autoreload.py:586] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2019-07-07 20:12:36,170] [autoreload.py:213] [autoreload:trigger_reload] [INFO]- D:\MyProject\VisualizedPlatform\UserAuthentication\views.py changed, reloading.
+[2019-07-07 20:12:37,229] [autoreload.py:586] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2019-07-07 20:12:58,082] [autoreload.py:213] [autoreload:trigger_reload] [INFO]- D:\MyProject\VisualizedPlatform\UserAuthentication\views.py changed, reloading.
+[2019-07-07 20:12:59,193] [autoreload.py:586] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2019-07-07 20:14:12,821] [autoreload.py:213] [autoreload:trigger_reload] [INFO]- D:\MyProject\VisualizedPlatform\dongfanghengtai\urls.py changed, reloading.
+[2019-07-07 20:14:13,884] [autoreload.py:586] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2019-07-07 20:14:16,215] [autoreload.py:213] [autoreload:trigger_reload] [INFO]- D:\MyProject\VisualizedPlatform\dongfanghengtai\urls.py changed, reloading.
+[2019-07-07 20:14:17,327] [autoreload.py:586] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2019-07-07 20:14:42,987] [basehttp.py:154] [basehttp:log_message] [INFO]- "GET /Index HTTP/1.1" 200 313
+[2019-07-07 20:14:57,494] [basehttp.py:154] [basehttp:log_message] [INFO]- "GET /Index HTTP/1.1" 200 304
+[2019-07-07 20:15:01,421] [log.py:228] [log:log_response] [ERROR]- Internal Server Error: /Logoff
+Traceback (most recent call last):
+  File "D:\Python37\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "D:\Python37\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "D:\Python37\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\MyProject\VisualizedPlatform\UserAuthentication\views.py", line 53, in Logoff
+    return redirect('Login')
+  File "D:\Python37\lib\site-packages\django\shortcuts.py", line 58, in redirect
+    return redirect_class(resolve_url(to, *args, **kwargs))
+  File "D:\Python37\lib\site-packages\django\shortcuts.py", line 148, in resolve_url
+    return reverse(to, args=args, kwargs=kwargs)
+  File "D:\Python37\lib\site-packages\django\urls\base.py", line 90, in reverse
+    return iri_to_uri(resolver._reverse_with_prefix(view, prefix, *args, **kwargs))
+  File "D:\Python37\lib\site-packages\django\urls\resolvers.py", line 668, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'Login' not found. 'Login' is not a valid view function or pattern name.
+[2019-07-07 20:15:01,424] [basehttp.py:154] [basehttp:log_message] [ERROR]- "POST /Logoff HTTP/1.1" 500 85929
+[2019-07-07 20:15:19,574] [autoreload.py:213] [autoreload:trigger_reload] [INFO]- D:\MyProject\VisualizedPlatform\UserAuthentication\views.py changed, reloading.
+[2019-07-07 20:15:20,670] [autoreload.py:586] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2019-07-07 20:15:22,226] [basehttp.py:154] [basehttp:log_message] [INFO]- "POST /Logoff HTTP/1.1" 302 0
+[2019-07-07 20:15:22,239] [basehttp.py:154] [basehttp:log_message] [INFO]- "GET /Login HTTP/1.1" 200 441
+[2019-07-07 20:15:28,292] [basehttp.py:154] [basehttp:log_message] [INFO]- "GET /Index HTTP/1.1" 200 441
+[2019-07-07 20:15:36,304] [basehttp.py:154] [basehttp:log_message] [INFO]- "POST /Login HTTP/1.1" 302 0
+[2019-07-07 20:15:36,317] [basehttp.py:154] [basehttp:log_message] [INFO]- "GET /Index HTTP/1.1" 200 304
+[2019-07-07 20:15:37,489] [basehttp.py:154] [basehttp:log_message] [INFO]- "POST /Logoff HTTP/1.1" 302 0
+[2019-07-07 20:15:37,493] [basehttp.py:154] [basehttp:log_message] [INFO]- "GET /Login HTTP/1.1" 200 441
+[2019-07-07 20:15:41,403] [basehttp.py:154] [basehttp:log_message] [INFO]- "GET /Index HTTP/1.1" 200 441
+[2019-07-07 20:15:45,575] [basehttp.py:154] [basehttp:log_message] [INFO]- "GET /Index HTTP/1.1" 200 441
