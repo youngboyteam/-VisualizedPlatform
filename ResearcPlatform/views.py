@@ -23,4 +23,6 @@ class UserLogin:
 
         script, div = components(p, CDN)
 
+        # test commit
+
         return render(self, 'circle.html', {'script': script, 'div': div})
