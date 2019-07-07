@@ -16,8 +16,20 @@ Including another URLconf
 from django.contrib import admin
 from django.urls import path
 from ResearcPlatform import views
+from UserAuthentication.views import Login, index, Regist,  Logoff
+from django.conf.urls import url
+from django.conf import settings
+
+def prod_static_url():
+    from django.views import static
+    urlpattern = url(r'^Static/(?P<path>.*)$', static.serve, {'document_root': settings.STATIC_ROOT}, name='Static')
+    return urlpattern
+
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('login', views.UserLogin.login),
-    path('make_circle',views.UserLogin.make_circle)
+    path('make_circle',views.UserLogin.make_circle),
+    path('Login', Login),
+    path('Index', index),
+    path('Regist',Regist),
+    path('Logoff', Logoff)
 ]
