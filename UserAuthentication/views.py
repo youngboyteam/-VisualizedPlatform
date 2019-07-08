@@ -1,6 +1,8 @@
 from django.shortcuts import render, redirect
 from django.contrib import auth
 from django.contrib.auth.models import User
+
+
 # Create your views here.
 def Login(request):
     if request.method == 'POST':
@@ -8,9 +10,9 @@ def Login(request):
         userpwd = request.POST.get("UserPWD")
         # user1 = auth.User.objects.get(username = username)
         # print(user1)
-        user = auth.authenticate(username = username,password = userpwd)
-        # print(user)
-        if(user):
+        user = auth.authenticate(username=username, password=userpwd)
+        print(user)
+        if user is not None:
             auth.login(request, user)
             print("登录成功")
             # print(user.username)
@@ -22,6 +24,7 @@ def Login(request):
         print('2222')
         return render(request, "Login.html")
 
+
 def index(request):
     print("进入index")
     if request.user.is_authenticated:
@@ -31,6 +34,7 @@ def index(request):
     else:
         return render(request, "Login.html")
 
+
 def Regist(request):
     print("00")
     if request.method == 'POST':
@@ -38,7 +42,7 @@ def Regist(request):
         username = request.POST.get("UserName")
         print(username)
         userpwd = request.POST.get("UserPWD")
-        user = User.objects.create_user(username, userpwd, '123456789')
+        user = User.objects.create_user(username, '123456789@163.com', userpwd)
         user.last_name = "test"
         user.first_name = "t"
         user.save()
@@ -47,8 +51,8 @@ def Regist(request):
         print("222")
         return render(request, "regist.html")
 
+
 def Logoff(request):
     if request.method == 'POST':
         auth.logout(request)
         return redirect('/Login')
-
